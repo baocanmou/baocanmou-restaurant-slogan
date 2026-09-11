@@ -1,5 +1,10 @@
 # Changelog / 版本记录
 
+## 1.1.1 — 2026-09-11
+
+- 修复升级时旧 Skill 备份位置：移到技能扫描目录之外，避免宿主发现重复入口；新增 3 项安装回归。 / Move upgrade backups outside the skills discovery directory to avoid duplicate entries; add 3 installer regressions.
+- 保留已发布 v1.1.0 和原有历史。 / Keep the published v1.1.0 and its history intact.
+
 ## 1.1.0 — 2026-09-11
 
 - 首次 GitHub 开源插件发行：Codex 清单、完整中英文说明、英文执行与方法卡。 / First GitHub plugin release: Codex manifest, bilingual docs and English method/execution guides.

@@ -24,7 +24,7 @@ These are editorial English adaptations of a fictional Chinese example, not clai
 
 ## Start in three steps
 
-1. [Download the latest release](https://github.com/yht0912/baocanmou-restaurant-slogan/releases/latest), choosing `baocanmou-restaurant-slogan-skill-v1.1.0.zip`, or clone this repository.
+1. [Download the latest release](https://github.com/yht0912/baocanmou-restaurant-slogan/releases/latest), choosing `baocanmou-restaurant-slogan-skill-v1.1.1.zip`, or clone this repository.
 2. Install the complete Skill folder in your assistant’s skills directory. See the [bilingual installation guide](docs/INSTALL.md).
 3. Start a new conversation and supply your brief:
 
@@ -89,12 +89,13 @@ The food visuals are AI-assisted promotional illustrations. The example preview 
 | Creative use | An AI assistant able to read Agent Skills or the supplied documents |
 | Python | Not needed for writing; Python 3.10+ standard library for optional installation/check scripts |
 | Network/cost | No bundled API keys, telemetry, network calls, MCP services or publishing automation; your host’s policies and fees still apply |
-| Checks | 13 delivery regression tests, plus structure checks on Chinese and English examples |
+| Checks | 13 delivery and 3 installer regression tests, plus structure checks on Chinese and English examples |
 | Codex plugin | `.codex-plugin/plugin.json` included; publication on GitHub is not official marketplace listing |
 
 ```bash
 python3 scripts/verify_release.py
 python3 -B -m unittest discover -s skills/baocanmou-restaurant-slogan/tests -v
+python3 -B -m unittest discover -s scripts -p "test_*.py" -v
 ```
 
 Passing checks confirms structure and consistency, not creative excellence, legal clearance or sales impact. [Validation scope](docs/VALIDATION.md) · [Privacy](PRIVACY.md)
@@ -107,7 +108,7 @@ Newly authored code, workflow and documentation are distributed under the [MIT L
 
 [Attribution guide](docs/ATTRIBUTION.md) · [Third-party and asset notice](NOTICE.md) · [Contributing](CONTRIBUTING.md) · [Issues](https://github.com/yht0912/baocanmou-restaurant-slogan/issues) · [Changelog](CHANGELOG.md)
 
-Suggested citation: **BaoCanMou. Restaurant Slogans: Ten Approaches, Three Picks. Version 1.1.0, 2026.** Machine-readable citation: [CITATION.cff](CITATION.cff).
+Suggested citation: **BaoCanMou. Restaurant Slogans: Ten Approaches, Three Picks. Version 1.1.1, 2026.** Machine-readable citation: [CITATION.cff](CITATION.cff).
 
 ---
 

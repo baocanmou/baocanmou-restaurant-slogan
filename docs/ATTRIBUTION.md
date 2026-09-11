@@ -8,7 +8,7 @@
 | 发起与产品方向 / Concept and product direction | 易慧庭 / Yi Huiting |
 | GitHub 维护入口 / Maintainer | [yht0912](https://github.com/yht0912) |
 | 官网 / Website | [www.bcmsj.com](https://www.bcmsj.com) |
-| 版本 / Version | 1.1.0 |
+| 版本 / Version | 1.1.1 |
 | 日期 / Date | 2026-09-11 |
 | License | MIT |
 
@@ -34,7 +34,7 @@ MIT permits commercial use, modification and redistribution. **Visible credit an
 
 衍生项目建议 / Suggested derivative notice:
 
-> 基于 BaoCanMou Restaurant Slogans v1.1.0 修改，本衍生版本由〔你的团队〕维护，与包参谋无官方隶属关系。保留原 MIT 许可。 / Adapted from BaoCanMou Restaurant Slogans v1.1.0; this derivative is maintained by [your team] and is not an official BaoCanMou product. Original MIT notices retained.
+> 基于 BaoCanMou Restaurant Slogans v1.1.1 修改，本衍生版本由〔你的团队〕维护，与包参谋无官方隶属关系。保留原 MIT 许可。 / Adapted from BaoCanMou Restaurant Slogans v1.1.1; this derivative is maintained by [your team] and is not an official BaoCanMou product. Original MIT notices retained.
 
 ## 理论和图片 / Theories and visuals
 

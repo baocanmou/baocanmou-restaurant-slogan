@@ -2,7 +2,7 @@
 
 ## 已核对的项目 / Checked scope
 
-- 13 项交付结构回归，覆盖作者重复、句子重复、未知事实、条件稿推荐、引用缺失、数量及多媒介输入。 / 13 structural regressions covering duplicate authors/lines, unknown facts, conditional recommendations, missing references, counts and multiple media.
+- 13 项交付结构回归及 3 项安装回归，覆盖作者重复、句子重复、未知事实、条件稿推荐、引用缺失、数量及多媒介输入。 / 13 structural regressions covering duplicate authors/lines, unknown facts, conditional recommendations, missing references, counts and multiple media.
 - 中文小炒、中文茶饮、英文改写三份完整 JSON。茶饮在 v1.0.0 由另一 AI 独立试用；英文例由本次编辑改写。 / Three complete JSON examples. The Chinese tea example came from an independent AI trial in v1.0.0; the English sample is an editorial adaptation in this release.
 - `.codex-plugin/plugin.json` 使用 plugin-creator 的校验工具；Skill 入口使用 skill-creator 结构校验。 / Manifest checked with plugin-creator validation and Skill entry checked with skill-creator validation.
 - 仓库本地链接、必备中英文文件、PNG 文件头与尺寸、来源方法数、私有路径与常见凭据特征；安装工具在临时目录核对复制、阻止覆盖和备份恢复。 / Local links, bilingual required files, PNG headers/dimensions, method coverage, private paths and common credential patterns; installer copy/refusal/backup behavior exercised in temporary directories.
@@ -27,6 +27,7 @@
 ```bash
 python3 scripts/verify_release.py
 python3 -B -m unittest discover -s skills/baocanmou-restaurant-slogan/tests -v
+python3 -B -m unittest discover -s scripts -p "test_*.py" -v
 python3 skills/baocanmou-restaurant-slogan/scripts/check_delivery.py examples/late-wok.en.json
 ```
 

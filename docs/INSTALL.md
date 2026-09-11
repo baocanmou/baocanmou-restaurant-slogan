@@ -6,8 +6,8 @@
 
 | Release 文件 / File | 用途 / Purpose |
 |---|---|
-| `baocanmou-restaurant-slogan-skill-v1.1.0.zip` | 精简完整 Skill，适合技能目录安装 / Complete standalone Skill |
-| `baocanmou-restaurant-slogan-plugin-v1.1.0.zip` | 插件清单、Skill、中英文文档、图片和贡献文件 / Full Codex plugin and repository content |
+| `baocanmou-restaurant-slogan-skill-v1.1.1.zip` | 精简完整 Skill，适合技能目录安装 / Complete standalone Skill |
+| `baocanmou-restaurant-slogan-plugin-v1.1.1.zip` | 插件清单、Skill、中英文文档、图片和贡献文件 / Full Codex plugin and repository content |
 | `SHA256SUMS.txt` | 核对下载文件 / Verify downloaded archives |
 
 下载入口 / Download: [GitHub Releases](https://github.com/yht0912/baocanmou-restaurant-slogan/releases/latest)。
@@ -37,9 +37,9 @@ python3 scripts/install_skill.py --host codex --dry-run
 python3 scripts/install_skill.py --host codex
 ```
 
-Claude Code 把 `codex` 改成 `claude`。工具不联网，只复制本包 Skill。已有同名目标时会停止；确认升级后使用 `--replace`，旧版先移入带时间的备份目录。备份路径会打印，手动恢复时先移走新目录，再把备份改回原名。符号链接目标要求在共享源处处理，不让安装器替你改链接。
+Claude Code 把 `codex` 改成 `claude`。工具不联网，只复制本包 Skill。已有同名目标时会停止；确认升级后使用 `--replace`，旧版先移入技能扫描目录外的 `skill-backups/` 时间戳目录。备份路径会打印，手动恢复时先移走新目录，再把备份改回原名。符号链接目标要求在共享源处处理，不让安装器替你改链接。
 
-For Claude Code, replace `codex` with `claude`. The installer is local-only. It stops on an existing destination; `--replace` explicitly backs up a normal directory before replacing it. Restore by moving the new directory aside and renaming the printed backup. Symlink destinations are refused: manage those at the shared source.
+For Claude Code, replace `codex` with `claude`. The installer is local-only. It stops on an existing destination; `--replace` explicitly backs up a normal directory in `skill-backups/`, outside the skills discovery directory, before replacing it. Restore by moving the new directory aside and renaming the printed backup. Symlink destinations are refused: manage those at the shared source.
 
 ## 3. 调用 / Invoke
 

@@ -47,7 +47,10 @@ def install(destination, replace=False, dry_run=False):
             raise ValueError('Copied file hashes differ; original destination retained.')
         if destination.exists():
             stamp = datetime.datetime.now(datetime.timezone.utc).strftime('%Y%m%dT%H%M%S%fZ')
-            backup = destination.with_name(destination.name + '.backup-' + stamp)
+            # Keep old SKILL.md files outside the host's skills discovery directory.
+            backup_root = destination.parent.parent / 'skill-backups'
+            backup_root.mkdir(parents=True, exist_ok=True)
+            backup = backup_root / (destination.name + '.backup-' + stamp)
             destination.rename(backup)
         staging.rename(destination)
         record.update({'installed': True, 'backup': str(backup) if backup else None,

@@ -54,7 +54,9 @@ Positioning first, design second. https://www.bcmsj.com
 
 ## GitHub Release 文案 / Release notes
 
-**v1.1.0 — 首个 GitHub 开源发行 / First GitHub release**
+**v1.1.1 — 升级备份修复 / Upgrade backup fix**
+
+升级备份移出技能扫描目录，避免重复发现；新增 3 项安装回归。 / Backups now live outside Skill discovery; 3 installer regressions added.
 
 餐饮专用，中英文。十种有出处的方法，各写一条，比较后推荐三条。 / Restaurant-specific and bilingual. Ten source-based approaches, one line each, a shared comparison and three recommendations.
 

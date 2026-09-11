@@ -3,7 +3,7 @@ name: baocanmou-restaurant-slogan
 description: 专为餐饮品牌、菜品与用餐场景创作中英文广告语；restaurant slogans and taglines, 10 methods and 3 recommendations，按10位广告及定位名家的可核对方法各写1条，检查理论适用与餐饮兑现条件，比较后推荐3条。用于餐馆、快餐、火锅、茶饮、咖啡、烘焙等广告语，不扩展成通用文案或品牌全案。
 metadata:
   author: BaoCanMou
-  version: 1.1.0
+  version: 1.1.1
 ---
 
 # 包参谋·餐饮广告语：十法三选

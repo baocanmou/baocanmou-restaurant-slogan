@@ -26,7 +26,7 @@
 
 ## 三步开始
 
-1. [下载最新 Release](https://github.com/yht0912/baocanmou-restaurant-slogan/releases/latest)，选择 `baocanmou-restaurant-slogan-skill-v1.1.0.zip`；也可以克隆本仓库。
+1. [下载最新 Release](https://github.com/yht0912/baocanmou-restaurant-slogan/releases/latest)，选择 `baocanmou-restaurant-slogan-skill-v1.1.1.zip`；也可以克隆本仓库。
 2. 将 Skill 完整文件夹安装到 AI 助手的技能目录；详细步骤见[中英文安装说明](docs/INSTALL.md)。
 3. 新开会话，粘贴以下提示与资料。
 
@@ -92,12 +92,13 @@
 | 基础使用 | 能读取 Agent Skills 或完整提示文档的 AI 助手 |
 | Python | 创作无需 Python；可选安装/结构检查使用 Python 3.10+ 标准库 |
 | 网络与费用 | 项目不内置 API Key、联网请求、遥测、MCP 或自动发布；宿主自身费用与数据政策另行适用 |
-| 测试 | 13 项交付结构回归；中文小炒、茶饮样例与英文样例的结构检查 |
+| 测试 | 13 项交付结构回归及 3 项安装回归；中文小炒、茶饮样例与英文样例的结构检查 |
 | 插件 | 含 `.codex-plugin/plugin.json`，支持按宿主允许方式导入；GitHub 开源不等于官方市场上架 |
 
 ```bash
 python3 scripts/verify_release.py
 python3 -B -m unittest discover -s skills/baocanmou-restaurant-slogan/tests -v
+python3 -B -m unittest discover -s scripts -p "test_*.py" -v
 ```
 
 检查数量、引用、状态和文件结构，不能证明文案优秀、无近似、可注册或有效增长。[完整验证范围](docs/VALIDATION.md) · [隐私说明](PRIVACY.md)
@@ -110,7 +111,7 @@ python3 -B -m unittest discover -s skills/baocanmou-restaurant-slogan/tests -v
 
 [完整署名与版权边界](docs/ATTRIBUTION.md) · [来源与素材说明](NOTICE.md) · [贡献指南](CONTRIBUTING.md) · [提问与反馈](https://github.com/yht0912/baocanmou-restaurant-slogan/issues) · [版本记录](CHANGELOG.md)
 
-推荐引用：**包参谋 BaoCanMou，《餐饮广告语：十法三选》，v1.1.0，2026。** GitHub 的 Cite this repository 可读取 [CITATION.cff](CITATION.cff)。
+推荐引用：**包参谋 BaoCanMou，《餐饮广告语：十法三选》，v1.1.1，2026。** GitHub 的 Cite this repository 可读取 [CITATION.cff](CITATION.cff)。
 
 ---
 

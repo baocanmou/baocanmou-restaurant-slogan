@@ -13,6 +13,7 @@
 ```bash
 python3 scripts/verify_release.py
 python3 -B -m unittest discover -s skills/baocanmou-restaurant-slogan/tests -v
+python3 -B -m unittest discover -s scripts -p "test_*.py" -v
 ```
 
 贡献者应有必要权利，并按项目 MIT 许可提交；无需转让版权。请勿添加追踪、凭据、自动发布、未核实的“大师公式”或虚构增长数字。

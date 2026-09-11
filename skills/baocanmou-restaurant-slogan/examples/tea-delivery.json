@@ -380,7 +380,7 @@
     "similarity_search": "not_run",
     "external_fact_check": "not_run",
     "review": "独立AI试用及后续AI编辑复核；仅基于虚构简报与本地方法卡，无外部消费者验证。",
-    "script_check": "passed：v1.1.0发布前执行结构检查。"
+    "script_check": "passed：v1.1.1发布前执行结构检查。"
   },
   "method_sources": [
     {

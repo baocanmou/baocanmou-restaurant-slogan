@@ -12,4 +12,4 @@ Keep this entire folder together. Install in your assistant’s Skill directory 
 
 Optional local check / 可选结构检查：`python3 scripts/check_delivery.py examples/late-wok.en.json`。Python 3.10+，仅标准库。The check does not judge literary quality, truth or sales impact.
 
-Publisher / 出品：BaoCanMou 包参谋。Concept / 发起：Yi Huiting 易慧庭。Version 1.1.0. MIT; see [LICENSE](LICENSE) and [NOTICE](NOTICE.md).
+Publisher / 出品：BaoCanMou 包参谋。Concept / 发起：Yi Huiting 易慧庭。Version 1.1.1. MIT; see [LICENSE](LICENSE) and [NOTICE](NOTICE.md).
