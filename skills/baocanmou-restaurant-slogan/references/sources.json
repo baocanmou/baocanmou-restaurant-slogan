@@ -1,0 +1,201 @@
+{
+  "catalog_version": "1.0",
+  "scope": "10位广告与定位名家的可核对核心观点。应用卡是转述及餐饮适配，不是原作者认可、全部理论复现或公认全球排名。",
+  "masters": [
+    {
+      "id": "ogilvy",
+      "name": "大卫·奥格威",
+      "name_en": "David Ogilvy",
+      "principle": "品牌形象",
+      "evidence_type": "agency_published_original_quotes",
+      "scope": "官方文集中品牌形象及一致性的原作者语句；未宣称通读所有原著",
+      "sources": [
+        {
+          "title": "Quotations of David Ogilvy",
+          "url": "https://www.ogilvy.com/sites/g/files/dhpsjz106/files/pdfdocuments/O23_OGILVY75_Quotations%20of%20David%20Ogilvy_WEB_0.pdf",
+          "locator": "Brand Image & Positioning, printed pages 18–21"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "reeves",
+      "name": "罗瑟·瑞夫斯",
+      "name_en": "Rosser Reeves",
+      "principle": "独特销售主张 USP",
+      "evidence_type": "industry_institution_summary",
+      "scope": "核对作者与USP核心，不冒称逐页读过原著",
+      "sources": [
+        {
+          "title": "AAF Advertising Hall of Fame — Rosser Reeves",
+          "url": "https://advertisinghalloffame.org/inductee/rosser-reeves/",
+          "locator": "USP paragraph"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "hopkins",
+      "name": "克劳德·霍普金斯",
+      "name_en": "Claude Hopkins",
+      "principle": "具体事实与测试",
+      "evidence_type": "publisher_summary_and_toc",
+      "scope": "出版社介绍、目录与馆藏记录；具体事实与测试章节",
+      "sources": [
+        {
+          "title": "Scientific Advertising — Dover Publications",
+          "url": "https://store.doverpublications.com/products/9780486836058",
+          "locator": "Overview; Chapters 7 and 15"
+        },
+        {
+          "title": "Scientific advertising — Library of Congress",
+          "url": "https://www.loc.gov/item/23009362/",
+          "locator": "Catalog and synopsis; full-view endpoint unavailable in this run"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "bernbach",
+      "name": "威廉·伯恩巴克",
+      "name_en": "Bill Bernbach",
+      "principle": "以人为中心的原创表达",
+      "evidence_type": "agency_summary_and_secondary_principles",
+      "scope": "DDB机构归纳；十项原则采用二手转述，未核对演讲原件",
+      "sources": [
+        {
+          "title": "DDB — Who We Are",
+          "url": "https://istanbul.ddb.com/en/who-we-are/",
+          "locator": "Meet the Founders — Bill Bernbach"
+        },
+        {
+          "title": "10 Principles Of Advertising — Bill Bernbach",
+          "url": "https://brandingstrategyinsider.com/2010/10/10-principles-of-advertising-bill-bernbach/",
+          "locator": "Principles 1–8; secondary attribution"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "burnett",
+      "name": "李奥·贝纳",
+      "name_en": "Leo Burnett",
+      "principle": "产品内在戏剧性",
+      "evidence_type": "agency_republished_original",
+      "scope": "Leo Burnett Worldwide账号刊载本人文章；不是网民仿名言",
+      "sources": [
+        {
+          "title": "Finally Somebody — Leo’s Words of Wisdom",
+          "url": "https://medium.com/leos-words-of-wisdom/finally-somebody-has-to-get-out-an-ad-f558baf9141",
+          "locator": "Inherent drama paragraphs and publisher identity"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "caples",
+      "name": "约翰·凯普斯",
+      "name_en": "John Caples",
+      "principle": "直接标题与反应测试",
+      "evidence_type": "industry_institution_summary_and_bibliography",
+      "scope": "核对标题、简单直接、测试；未引入未经核对的数字公式",
+      "sources": [
+        {
+          "title": "AAF Advertising Hall of Fame — John Caples",
+          "url": "https://advertisinghalloffame.org/inductee/john-caples/",
+          "locator": "Simple words, headlines, directness, testing paragraphs"
+        },
+        {
+          "title": "Tested Advertising Methods — 1947 edition",
+          "url": "https://books.google.com/books?id=kB7ZAAAAMAAJ",
+          "locator": "Bibliographic details and table of contents"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "schwartz",
+      "name": "尤金·施瓦茨",
+      "name_en": "Eugene Schwartz",
+      "principle": "既有欲望与认知阶段",
+      "evidence_type": "rights_holder_summary_and_toc",
+      "scope": "版权方公开介绍和目录，不声称读过付费正文",
+      "sources": [
+        {
+          "title": "Breakthrough Advertising — authorized publisher",
+          "url": "https://breakthroughadvertisingbook.com/lp2/",
+          "locator": "Publisher note; Part 1 Chapters 1–2"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "young",
+      "name": "詹姆斯·韦伯·扬",
+      "name_en": "James Webb Young",
+      "principle": "旧元素的新组合",
+      "evidence_type": "authorized_book_excerpt",
+      "scope": "出版社书目信息及标明授权的Combining Old Elements节选",
+      "sources": [
+        {
+          "title": "A Technique for Producing Ideas — McGraw Hill",
+          "url": "https://www.mheducation.com/highered/mhp/product/technique-producing-ideas.html",
+          "locator": "Overview"
+        },
+        {
+          "title": "Authorized excerpt — A Technique for Producing Ideas",
+          "url": "https://www.iberlibro.com/9780071410946/Technique-Producing-Ideas-Advertising-Age-0071410945/plp",
+          "locator": "Fragmento; Combining Old Elements"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "ries",
+      "name": "艾·里斯",
+      "name_en": "Al Ries",
+      "principle": "定位与聚焦",
+      "evidence_type": "author_firm_summary",
+      "scope": "定位战略方向；Positioning与Jack Trout合著",
+      "sources": [
+        {
+          "title": "Al Ries — RIES",
+          "url": "https://ries.com/about/alries",
+          "locator": "Positioning explanation"
+        },
+        {
+          "title": "Books by RIES",
+          "url": "https://ries.com/books",
+          "locator": "Positioning and Focus"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "hegarty",
+      "name": "约翰·赫加蒂",
+      "name_en": "John Hegarty",
+      "principle": "有意义的差异与反常规",
+      "evidence_type": "author_interview_and_agency_secondary",
+      "scope": "本人访谈与BBH书籍介绍；反常规细节由专业书评交叉支持",
+      "sources": [
+        {
+          "title": "Sir John Hegarty interview — The Economic Times",
+          "url": "https://economictimes.indiatimes.com/advertising-going-to-have-many-futures-sir-john-hegarty-worldwide-creative-director-bartle-bogle-hegarty/articleshow/8406625.cms?from=mdr",
+          "locator": "Zagging philosophy answer"
+        },
+        {
+          "title": "Hegarty on Advertising — BBH Labs",
+          "url": "https://www.bbh-labs.com/hegarty-on-advertising-turning-intelligence-into-magic",
+          "locator": "Book themes"
+        },
+        {
+          "title": "Hegarty on Advertising — Communication Arts",
+          "url": "https://www.commarts.com/book-reviews/hegarty-on-advertising",
+          "locator": "Irreverence, question and solution"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "schema_version": "1.0",
+  "status": "complete",
+  "workflow_author": "包参谋·餐饮广告语",
+  "brief": {
+    "brand": "青间茶",
+    "fictional": true,
+    "category": "社区茶饮店；茉莉原叶茶与鲜切柠檬调制的冰饮",
+    "audience_scene": "主要顾客为午饭后散步路过的成年人",
+    "task": "长期品牌广告语，按10位名家核心方法各创作一条，比较后推荐3条；轻松自然，不做低价促销",
+    "primary_medium": [
+      "菜单首页",
+      "杯身"
+    ],
+    "facts": [
+      {
+        "id": "F01",
+        "text": "虚构品牌名为青间茶，是一家社区茶饮店。",
+        "status": "fictional",
+        "source": "本轮用户提供的虚构简报"
+      },
+      {
+        "id": "F02",
+        "text": "主要顾客是午饭后散步路过的成年人。",
+        "status": "fictional",
+        "source": "本轮用户提供的虚构简报"
+      },
+      {
+        "id": "F03",
+        "text": "售卖由茉莉原叶茶与鲜切柠檬调制的饮品。",
+        "status": "fictional",
+        "source": "本轮用户提供的虚构简报"
+      },
+      {
+        "id": "F04",
+        "text": "已有冰饮，不做热饮。",
+        "status": "fictional",
+        "source": "本轮用户提供的虚构简报"
+      },
+      {
+        "id": "F05",
+        "text": "顾客可选是否额外加糖；简报未声称不额外加糖就等于无糖。",
+        "status": "fictional",
+        "source": "本轮用户提供的虚构简报；末句为本次对原文边界的说明"
+      },
+      {
+        "id": "U01",
+        "text": "没有竞品调研，无法确认某项利益是否独特，也没有已观察到的品类表达惯例。",
+        "status": "unknown",
+        "source": "本轮虚构简报明确未提供竞品调研"
+      },
+      {
+        "id": "U02",
+        "text": "没有用户访谈，未确认顾客的主要欲望或品牌认知阶段。",
+        "status": "unknown",
+        "source": "本轮虚构简报明确未提供用户访谈"
+      },
+      {
+        "id": "U03",
+        "text": "未提供检测报告或产地证明，不据此提出营养健康、无糖或产地承诺。",
+        "status": "unknown",
+        "source": "本轮虚构简报明确未提供检测报告和产地证明"
+      }
+    ]
+  },
+  "candidates": [
+    {
+      "id": "C01",
+      "master_id": "ogilvy",
+      "line": "青间茶，陪你慢慢过午后。",
+      "fact_ids": [
+        "F01",
+        "F02",
+        "F03",
+        "F04"
+      ],
+      "application": {
+        "principle": "品牌形象",
+        "move": "把社区午后散步转成不催促的品牌语气，并在菜单和杯身保持同一表达。",
+        "limit": "只应用品牌形象的一致性原则；一句话不能证明已经建立长期品牌形象。"
+      },
+      "eligibility": "eligible",
+      "conditions": [
+        "菜单首页和杯身均与品牌名及品类说明连用：茉莉原叶茶 × 鲜切柠檬｜冰饮。品类说明不是第二条广告语。",
+        "慢慢过午后是情绪邀请，不承诺店内座位、无限停留或其他未给出的服务。"
+      ],
+      "comparison": {
+        "clarity": "medium",
+        "appetite": "medium",
+        "memory": "medium",
+        "brand": "medium",
+        "medium": "medium"
+      },
+      "tradeoff": "有轻松气质，但删去品牌后咖啡店等也能用，产品记忆弱于C08。"
+    },
+    {
+      "id": "C02",
+      "master_id": "reeves",
+      "line": "茶香和柠檬香，一杯都喝到。",
+      "fact_ids": [
+        "F03",
+        "F04",
+        "U01"
+      ],
+      "application": {
+        "principle": "独特销售主张 USP",
+        "move": "集中表达一杯结合茶与柠檬风味的利益，不增加唯一或首创。",
+        "limit": "只形成真实利益方向；没有竞争证据，不能认定符合完整USP独特性要求。"
+      },
+      "eligibility": "conditional",
+      "conditions": [
+        "菜单首页和杯身均与品牌名及品类说明连用：茉莉原叶茶 × 鲜切柠檬｜冰饮。品类说明不是第二条广告语。",
+        "USP候选，独特性待核验；需明确竞争范围并取得材料后再判定方法适用。"
+      ],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "strong",
+        "memory": "medium",
+        "brand": "medium",
+        "medium": "medium"
+      },
+      "tradeoff": "产品利益清楚，但同类店也可能具备；竞争条件未满足，不进入本轮推荐。"
+    },
+    {
+      "id": "C03",
+      "master_id": "hopkins",
+      "line": "茉莉原叶茶，配鲜切柠檬。",
+      "fact_ids": [
+        "F03",
+        "F04"
+      ],
+      "application": {
+        "principle": "具体事实与测试",
+        "move": "删去品质夸赞，把茶基底与已确认的鲜切操作直接写进一句话。",
+        "limit": "只应用具体事实原则；尚未开展真实反应测试，不能声称提高点单。"
+      },
+      "eligibility": "eligible",
+      "conditions": [
+        "菜单首页和杯身均与品牌名及品类说明连用：茉莉原叶茶 × 鲜切柠檬｜冰饮。品类说明不是第二条广告语。",
+        "在该虚构案例落地演示中，配方和鲜切操作须与简报一致；不外推为有机、产地或每日现切承诺。"
+      ],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "strong",
+        "memory": "medium",
+        "brand": "strong",
+        "medium": "strong"
+      },
+      "tradeoff": "最容易让人知道喝什么，但更像清楚的产品说明，生活情境与情绪记忆弱于C08。"
+    },
+    {
+      "id": "C04",
+      "master_id": "bernbach",
+      "line": "饭吃好了，茶陪你走走。",
+      "fact_ids": [
+        "F02",
+        "F03",
+        "F04"
+      ],
+      "application": {
+        "principle": "以人为中心的原创表达",
+        "move": "以午饭结束与散步继续的轻巧转接，让茶成为饭后同行者，使用拟人表达。",
+        "limit": "这是团队创意而非顾客原话；本轮为纯文字，不声称已完成文字与视觉协同。"
+      },
+      "eligibility": "eligible",
+      "conditions": [
+        "菜单首页和杯身均与品牌名及品类说明连用：茉莉原叶茶 × 鲜切柠檬｜冰饮。品类说明不是第二条广告语。",
+        "不把饭后场景写成消食、解腻或减脂功效；不暗示茶饮店供应午餐。"
+      ],
+      "comparison": {
+        "clarity": "medium",
+        "appetite": "strong",
+        "memory": "strong",
+        "brand": "medium",
+        "medium": "medium"
+      },
+      "tradeoff": "说话自然，但只有茶的泛称，换其他茶饮也成立；与C08同属散步场景，优先保留产品更具体的C08。"
+    },
+    {
+      "id": "C05",
+      "master_id": "burnett",
+      "line": "茶香遇柠檬，一口冰凉。",
+      "fact_ids": [
+        "F03",
+        "F04"
+      ],
+      "application": {
+        "principle": "产品内在戏剧性",
+        "move": "把茶与柠檬相遇、冰饮入口的瞬间作为产品本身的感官动作。",
+        "limit": "茶香和冰凉是创作层面的感官表达，没有检测、降温功效或配送温度保证；未实际品饮。"
+      },
+      "eligibility": "eligible",
+      "conditions": [
+        "菜单首页和杯身均与品牌名及品类说明连用：茉莉原叶茶 × 鲜切柠檬｜冰饮。品类说明不是第二条广告语。",
+        "用于简报已确认的冰饮；不改成热气、暖胃等不符产品的表达。"
+      ],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "strong",
+        "memory": "strong",
+        "brand": "medium",
+        "medium": "strong"
+      },
+      "tradeoff": "有感官画面，但没有茉莉这一具体原料记忆，较容易与其他柠檬茶混淆。"
+    },
+    {
+      "id": "C06",
+      "master_id": "caples",
+      "line": "额外加糖，听你的。",
+      "fact_ids": [
+        "F03",
+        "F04",
+        "F05"
+      ],
+      "application": {
+        "principle": "直接标题与反应测试",
+        "move": "将一个可兑现的选择权放在句首，直接减少顾客对是否额外加糖的猜测。",
+        "limit": "只应用直接利益表达；没有做反应测试，不把理解更容易当成已证明的销售结果。"
+      },
+      "eligibility": "eligible",
+      "conditions": [
+        "菜单首页和杯身均与品牌名及品类说明连用：茉莉原叶茶 × 鲜切柠檬｜冰饮。品类说明不是第二条广告语。",
+        "点单流程必须确实提供是否额外加糖的选择；不得将该句改写成无糖、零糖或低热量。"
+      ],
+      "comparison": {
+        "clarity": "medium",
+        "appetite": "medium",
+        "memory": "strong",
+        "brand": "medium",
+        "medium": "medium"
+      },
+      "tradeoff": "简短且给顾客选择权，但脱离品类说明不知道卖什么；也可能让人先记住加糖选择而非茉莉柠檬。"
+    },
+    {
+      "id": "C07",
+      "master_id": "schwartz",
+      "line": "午后想喝点清爽的，就来青间茶。",
+      "fact_ids": [
+        "F01",
+        "F02",
+        "F03",
+        "F04",
+        "U02"
+      ],
+      "application": {
+        "principle": "既有欲望与认知阶段",
+        "move": "按路过者已经想喝一杯的阶段假设，先接住午后的清爽愿望，再指向品牌。",
+        "limit": "没有用户记录，欲望和认知阶段均为假设；清爽不等于健康或减脂。"
+      },
+      "eligibility": "conditional",
+      "conditions": [
+        "菜单首页和杯身均与品牌名及品类说明连用：茉莉原叶茶 × 鲜切柠檬｜冰饮。品类说明不是第二条广告语。",
+        "需核实目标顾客是否存在这一欲望与认知阶段，不能标成已调研提炼。"
+      ],
+      "comparison": {
+        "clarity": "medium",
+        "appetite": "strong",
+        "memory": "medium",
+        "brand": "weak",
+        "medium": "medium"
+      },
+      "tradeoff": "容易理解情境，但清爽是泛化动机；阶段假设尚未获得支持，不进入本轮推荐。"
+    },
+    {
+      "id": "C08",
+      "master_id": "young",
+      "line": "散个步，带杯茉莉柠檬。",
+      "fact_ids": [
+        "F02",
+        "F03",
+        "F04"
+      ],
+      "application": {
+        "principle": "旧元素的新组合",
+        "move": "把已给定的饭后散步场景与茉莉、柠檬产品元素连成随行的一杯，浓缩成自然邀约。",
+        "limit": "仅应用已有材料重组与修订；不声称完成作者全部创意流程，未经过顾客实测。"
+      },
+      "eligibility": "eligible",
+      "conditions": [
+        "菜单首页和杯身均与品牌名及品类说明连用：茉莉原叶茶 × 鲜切柠檬｜冰饮。品类说明不是第二条广告语。",
+        "茉莉柠檬指该冰饮的简短表达，需与完整品类说明连用，不能被单独误读为售卖植物或水果。"
+      ],
+      "comparison": {
+        "clarity": "medium",
+        "appetite": "strong",
+        "memory": "strong",
+        "brand": "strong",
+        "medium": "medium"
+      },
+      "tradeoff": "贴近本店场景与原料，语气自然；代价是对匆忙顾客的吸引力较弱，且需要品类说明补足冰饮信息。"
+    },
+    {
+      "id": "C09",
+      "master_id": "ries",
+      "line": "青间茶，社区里的茉莉柠檬茶。",
+      "fact_ids": [
+        "F01",
+        "F02",
+        "F03",
+        "F04"
+      ],
+      "application": {
+        "principle": "定位与聚焦",
+        "move": "让品牌名紧邻社区位置与具体饮品方向，集中建立一个可理解的位置。",
+        "limit": "这是想建立的定位表达，不是已占据消费者心智的证明；没有领导地位或独家承诺。"
+      },
+      "eligibility": "eligible",
+      "conditions": [
+        "菜单首页和杯身均与品牌名及品类说明连用：茉莉原叶茶 × 鲜切柠檬｜冰饮。品类说明不是第二条广告语。",
+        "社区位置与茉莉柠檬茶品类要持续符合门店实际。"
+      ],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "medium",
+        "memory": "medium",
+        "brand": "strong",
+        "medium": "strong"
+      },
+      "tradeoff": "定位清楚，但像门店介绍，邀请感和杯身复述性不及C08。"
+    },
+    {
+      "id": "C10",
+      "master_id": "hegarty",
+      "line": "不急着赶路，先喝青间茶。",
+      "fact_ids": [
+        "F01",
+        "F02",
+        "F03",
+        "F04",
+        "U01"
+      ],
+      "application": {
+        "principle": "有意义的差异与反常规",
+        "move": "拟以从赶路转向散步喝茶的反差，尝试不催促的表达角度。",
+        "limit": "没有观察到的品类传播惯例，不能确认这真是反常规；不声称同行都在催人快。"
+      },
+      "eligibility": "conditional",
+      "conditions": [
+        "菜单首页和杯身均与品牌名及品类说明连用：茉莉原叶茶 × 鲜切柠檬｜冰饮。品类说明不是第二条广告语。",
+        "补充品类表达观察后再判断是否构成相关且有意义的反常规；当前仅保留候选。"
+      ],
+      "comparison": {
+        "clarity": "medium",
+        "appetite": "medium",
+        "memory": "medium",
+        "brand": "weak",
+        "medium": "medium"
+      },
+      "tradeoff": "容易沦为任何休闲品牌都能用的慢生活句；反常规依据缺失，不进入本轮推荐。"
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "candidate_id": "C08",
+      "reason": "主推。把饭后散步与具体原料同时放进记忆里，比C03更有生活邀请感，比C06更能持续指向这家店卖的饮品；符合轻松自然、长期使用的要求。",
+      "placement": "菜单首页：青间茶作为品牌名，其下放“散个步，带杯茉莉柠檬。”，紧接品类说明“茉莉原叶茶 × 鲜切柠檬｜冰饮”。杯身采用相同三层关系，确保拿起杯子能同时看到品牌、广告语和品类。",
+      "condition": "面向社区午后散步场景；保留品牌与冰饮品类说明，实际配方继续符合简报。不承诺消食、健康或特定服务。",
+      "test": "以后可在获得同意的目标顾客中展示相同品牌、字号和品类说明，让其说出卖什么、适合何时喝，并在移开文案后复述。记录真实回答与误解；本轮没有开展测试。"
+    },
+    {
+      "rank": 2,
+      "candidate_id": "C03",
+      "reason": "备选。若菜单首页更需要先解释产品，选这一条：具体原料与操作最清楚，少依赖情境联想；代价是像说明语，情绪记忆弱于C08。",
+      "placement": "菜单首页和杯身均使用“青间茶”＋“茉莉原叶茶，配鲜切柠檬。”，下方标注“冰饮”。冰饮是品类／温度说明，不是第二条广告语。",
+      "condition": "原叶茶和鲜切柠檬须按简报兑现；不扩写成当日采摘、特定产地或现点现切。",
+      "test": "以后与C08使用同视觉、同触点展示，先记录顾客是否能准确说出茶基底、柠檬与冰饮属性，再记录选择理由。没有真实记录前不声称更能卖。"
+    },
+    {
+      "rank": 3,
+      "candidate_id": "C06",
+      "reason": "另一有效角度。突出额外加糖的选择权，适合希望先减少点单疑问的店主；比C03更像对顾客说话，但产品与场景记忆弱于C08，因此不作为主推。",
+      "placement": "菜单首页或杯身采用“青间茶”＋“额外加糖，听你的。”＋“茉莉原叶茶 × 鲜切柠檬｜冰饮”。点单处同步写清“可选是否额外加糖”，这是服务说明。",
+      "condition": "点单必须确实支持该选择；不额外加糖不能被引申成整杯无糖、低热量或适合某类疾病人群。",
+      "test": "以后请目标顾客解释这句话，并观察是否误解成整杯无糖；核实真实点单操作能否提供该选择。理解正确仍不等于已经证明长期品牌效果。"
+    }
+  ],
+  "validation": {
+    "consumer_test": "not_run",
+    "similarity_search": "not_run",
+    "external_fact_check": "not_run",
+    "review": "独立AI试用及后续AI编辑复核；仅基于虚构简报与本地方法卡，无外部消费者验证。",
+    "script_check": "passed：v1.1.0发布前执行结构检查。"
+  },
+  "method_sources": [
+    {
+      "id": "ogilvy",
+      "name": "大卫·奥格威",
+      "name_en": "David Ogilvy",
+      "principle": "品牌形象",
+      "evidence_type": "agency_published_original_quotes",
+      "scope": "官方文集中品牌形象及一致性的原作者语句；未宣称通读所有原著",
+      "sources": [
+        {
+          "title": "Quotations of David Ogilvy",
+          "url": "https://www.ogilvy.com/sites/g/files/dhpsjz106/files/pdfdocuments/O23_OGILVY75_Quotations%20of%20David%20Ogilvy_WEB_0.pdf",
+          "locator": "Brand Image & Positioning, printed pages 18–21"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "reeves",
+      "name": "罗瑟·瑞夫斯",
+      "name_en": "Rosser Reeves",
+      "principle": "独特销售主张 USP",
+      "evidence_type": "industry_institution_summary",
+      "scope": "核对作者与USP核心，不冒称逐页读过原著",
+      "sources": [
+        {
+          "title": "AAF Advertising Hall of Fame — Rosser Reeves",
+          "url": "https://advertisinghalloffame.org/inductee/rosser-reeves/",
+          "locator": "USP paragraph"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "hopkins",
+      "name": "克劳德·霍普金斯",
+      "name_en": "Claude Hopkins",
+      "principle": "具体事实与测试",
+      "evidence_type": "publisher_summary_and_toc",
+      "scope": "出版社介绍、目录与馆藏记录；具体事实与测试章节",
+      "sources": [
+        {
+          "title": "Scientific Advertising — Dover Publications",
+          "url": "https://store.doverpublications.com/products/9780486836058",
+          "locator": "Overview; Chapters 7 and 15"
+        },
+        {
+          "title": "Scientific advertising — Library of Congress",
+          "url": "https://www.loc.gov/item/23009362/",
+          "locator": "Catalog and synopsis; full-view endpoint unavailable in this run"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "bernbach",
+      "name": "威廉·伯恩巴克",
+      "name_en": "Bill Bernbach",
+      "principle": "以人为中心的原创表达",
+      "evidence_type": "agency_summary_and_secondary_principles",
+      "scope": "DDB机构归纳；十项原则采用二手转述，未核对演讲原件",
+      "sources": [
+        {
+          "title": "DDB — Who We Are",
+          "url": "https://istanbul.ddb.com/en/who-we-are/",
+          "locator": "Meet the Founders — Bill Bernbach"
+        },
+        {
+          "title": "10 Principles Of Advertising — Bill Bernbach",
+          "url": "https://brandingstrategyinsider.com/2010/10/10-principles-of-advertising-bill-bernbach/",
+          "locator": "Principles 1–8; secondary attribution"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "burnett",
+      "name": "李奥·贝纳",
+      "name_en": "Leo Burnett",
+      "principle": "产品内在戏剧性",
+      "evidence_type": "agency_republished_original",
+      "scope": "Leo Burnett Worldwide账号刊载本人文章；不是网民仿名言",
+      "sources": [
+        {
+          "title": "Finally Somebody — Leo’s Words of Wisdom",
+          "url": "https://medium.com/leos-words-of-wisdom/finally-somebody-has-to-get-out-an-ad-f558baf9141",
+          "locator": "Inherent drama paragraphs and publisher identity"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "caples",
+      "name": "约翰·凯普斯",
+      "name_en": "John Caples",
+      "principle": "直接标题与反应测试",
+      "evidence_type": "industry_institution_summary_and_bibliography",
+      "scope": "核对标题、简单直接、测试；未引入未经核对的数字公式",
+      "sources": [
+        {
+          "title": "AAF Advertising Hall of Fame — John Caples",
+          "url": "https://advertisinghalloffame.org/inductee/john-caples/",
+          "locator": "Simple words, headlines, directness, testing paragraphs"
+        },
+        {
+          "title": "Tested Advertising Methods — 1947 edition",
+          "url": "https://books.google.com/books?id=kB7ZAAAAMAAJ",
+          "locator": "Bibliographic details and table of contents"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "schwartz",
+      "name": "尤金·施瓦茨",
+      "name_en": "Eugene Schwartz",
+      "principle": "既有欲望与认知阶段",
+      "evidence_type": "rights_holder_summary_and_toc",
+      "scope": "版权方公开介绍和目录，不声称读过付费正文",
+      "sources": [
+        {
+          "title": "Breakthrough Advertising — authorized publisher",
+          "url": "https://breakthroughadvertisingbook.com/lp2/",
+          "locator": "Publisher note; Part 1 Chapters 1–2"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "young",
+      "name": "詹姆斯·韦伯·扬",
+      "name_en": "James Webb Young",
+      "principle": "旧元素的新组合",
+      "evidence_type": "authorized_book_excerpt",
+      "scope": "出版社书目信息及标明授权的Combining Old Elements节选",
+      "sources": [
+        {
+          "title": "A Technique for Producing Ideas — McGraw Hill",
+          "url": "https://www.mheducation.com/highered/mhp/product/technique-producing-ideas.html",
+          "locator": "Overview"
+        },
+        {
+          "title": "Authorized excerpt — A Technique for Producing Ideas",
+          "url": "https://www.iberlibro.com/9780071410946/Technique-Producing-Ideas-Advertising-Age-0071410945/plp",
+          "locator": "Fragmento; Combining Old Elements"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "ries",
+      "name": "艾·里斯",
+      "name_en": "Al Ries",
+      "principle": "定位与聚焦",
+      "evidence_type": "author_firm_summary",
+      "scope": "定位战略方向；Positioning与Jack Trout合著",
+      "sources": [
+        {
+          "title": "Al Ries — RIES",
+          "url": "https://ries.com/about/alries",
+          "locator": "Positioning explanation"
+        },
+        {
+          "title": "Books by RIES",
+          "url": "https://ries.com/books",
+          "locator": "Positioning and Focus"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    },
+    {
+      "id": "hegarty",
+      "name": "约翰·赫加蒂",
+      "name_en": "John Hegarty",
+      "principle": "有意义的差异与反常规",
+      "evidence_type": "author_interview_and_agency_secondary",
+      "scope": "本人访谈与BBH书籍介绍；反常规细节由专业书评交叉支持",
+      "sources": [
+        {
+          "title": "Sir John Hegarty interview — The Economic Times",
+          "url": "https://economictimes.indiatimes.com/advertising-going-to-have-many-futures-sir-john-hegarty-worldwide-creative-director-bartle-bogle-hegarty/articleshow/8406625.cms?from=mdr",
+          "locator": "Zagging philosophy answer"
+        },
+        {
+          "title": "Hegarty on Advertising — BBH Labs",
+          "url": "https://www.bbh-labs.com/hegarty-on-advertising-turning-intelligence-into-magic",
+          "locator": "Book themes"
+        },
+        {
+          "title": "Hegarty on Advertising — Communication Arts",
+          "url": "https://www.commarts.com/book-reviews/hegarty-on-advertising",
+          "locator": "Irreverence, question and solution"
+        }
+      ],
+      "checked_on": "2026-09-10"
+    }
+  ],
+  "source_note": "来源链接按本地Skill来源目录提供；本轮未联网打开，checked_on是目录记录的核对日期，不是本次独立试用的核对行为。"
+}

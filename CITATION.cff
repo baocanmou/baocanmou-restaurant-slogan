@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use or discuss this workflow, please cite the project. / 引用此工作流时，欢迎标明项目来源。"
+type: software
+title: "BaoCanMou Restaurant Slogans: Ten Approaches, Three Picks"
+authors:
+  - name: "BaoCanMou / 包参谋"
+    website: "https://www.bcmsj.com"
+  - family-names: "Yi"
+    given-names: "Huiting"
+    affiliation: "BaoCanMou"
+version: 1.1.0
+date-released: 2026-09-11
+license: MIT
+repository-code: "https://github.com/yht0912/baocanmou-restaurant-slogan"
+url: "https://www.bcmsj.com"
+abstract: "A bilingual restaurant-specific AI Skill applying ten source-based approaches, comparing ten slogans and recommending three."
+keywords:
+  - restaurant
+  - slogans
+  - copywriting
+  - agent-skills
+  - BaoCanMou

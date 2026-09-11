@@ -1,0 +1,362 @@
+{
+  "schema_version": "1.0",
+  "status": "complete",
+  "brief": {
+    "brand": "Late Wok",
+    "category": "Individually stir-fried dinners with rice",
+    "audience_scene": "People eating alone after finishing work late",
+    "task": "A lasting brand line, not a price promotion",
+    "primary_medium": [
+      "Menu front",
+      "In-store brand poster"
+    ],
+    "fictional": true,
+    "facts": [
+      {
+        "id": "F01",
+        "text": "Brand: Late Wok.",
+        "status": "fictional",
+        "source": "Fictional demonstration brief; explicit unknown where marked"
+      },
+      {
+        "id": "F02",
+        "text": "Six single-person stir-fry meals; each ordered portion is individually stir-fried after ordering and served with a bowl of rice. This does not cover every menu item.",
+        "status": "fictional",
+        "source": "Fictional demonstration brief; explicit unknown where marked"
+      },
+      {
+        "id": "F03",
+        "text": "Evening dine-in orders from 20:30 to 23:00. No all-day or delivery-temperature promise.",
+        "status": "fictional",
+        "source": "Fictional demonstration brief; explicit unknown where marked"
+      },
+      {
+        "id": "F04",
+        "text": "The intended audience is people dining alone after a late workday. This is a fictional scenario, not interview evidence.",
+        "status": "fictional",
+        "source": "Fictional demonstration brief; explicit unknown where marked"
+      },
+      {
+        "id": "F05",
+        "text": "The intended attitude: a dinner for one deserves care. No price-promotion theme.",
+        "status": "fictional",
+        "source": "Fictional demonstration brief; explicit unknown where marked"
+      },
+      {
+        "id": "F06",
+        "text": "Long-term brand copy for the menu front and an in-store poster, paired with Late Wok and the category Single-person stir-fried dinners.",
+        "status": "fictional",
+        "source": "Fictional demonstration brief; explicit unknown where marked"
+      },
+      {
+        "id": "F07",
+        "text": "The six dishes make an audible sizzle while cooking and are served hot for dine-in. No measured temperature or service-time claim.",
+        "status": "fictional",
+        "source": "Fictional demonstration brief; explicit unknown where marked"
+      },
+      {
+        "id": "F08",
+        "text": "An unused fictional team draft said Wait for your friends, then start the stir-fry. It is revision material, not a finding about competitors.",
+        "status": "fictional",
+        "source": "Fictional demonstration brief; explicit unknown where marked"
+      },
+      {
+        "id": "U01",
+        "text": "No competitor capability or message research was supplied; uniqueness and existing mental ownership are unknown.",
+        "status": "unknown",
+        "source": "Fictional demonstration brief; explicit unknown where marked"
+      }
+    ]
+  },
+  "candidates": [
+    {
+      "id": "C01",
+      "master_id": "ogilvy",
+      "line": "Late Wok. A little care in every dinner.",
+      "fact_ids": [
+        "F01",
+        "F02",
+        "F05",
+        "F06"
+      ],
+      "application": {
+        "principle": "A consistent hospitality attitude supported by the actual meal.",
+        "move": "Links the brand to caring about one-person dinner.",
+        "limit": "A proposed brand image, not evidence of established perception."
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "medium",
+        "memory": "medium",
+        "brand": "strong",
+        "medium": "strong"
+      },
+      "tradeoff": "Clear attitude; weaker food specificity than C05."
+    },
+    {
+      "id": "C02",
+      "master_id": "reeves",
+      "line": "Dinner for one, stir-fried after 8:30.",
+      "fact_ids": [
+        "F02",
+        "F03",
+        "F04",
+        "U01"
+      ],
+      "application": {
+        "principle": "A motivating benefit needs supported competitive distinctiveness.",
+        "move": "Connects individual cooking and a specific ordering window.",
+        "limit": "The benefit is supported in the fictional brief, but uniqueness is unresearched."
+      },
+      "eligibility": "conditional",
+      "conditions": [
+        "USP distinctiveness requires competitor evidence; keep the literal operating window visible."
+      ],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "strong",
+        "memory": "medium",
+        "brand": "medium",
+        "medium": "medium"
+      },
+      "tradeoff": "Conditional USP application; not eligible for the final three."
+    },
+    {
+      "id": "C03",
+      "master_id": "hopkins",
+      "line": "You order one. We stir-fry one.",
+      "fact_ids": [
+        "F02",
+        "F06"
+      ],
+      "application": {
+        "principle": "Use a concrete supportable preparation detail.",
+        "move": "Connects each order to individual stir-frying.",
+        "limit": "Does not imply never-frozen ingredients; response testing has not occurred."
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "strong",
+        "memory": "strong",
+        "brand": "medium",
+        "medium": "strong"
+      },
+      "tradeoff": "Preparation is clear; the late-work occasion is less explicit."
+    },
+    {
+      "id": "C04",
+      "master_id": "bernbach",
+      "line": "Dinner for one still deserves a wok.",
+      "fact_ids": [
+        "F02",
+        "F04",
+        "F05",
+        "F06"
+      ],
+      "application": {
+        "principle": "A human dining tension carried by an actual product benefit.",
+        "move": "One person is treated as worth cooking a real dinner for.",
+        "limit": "Pair with the restaurant and category; word-image integration is not complete."
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "medium",
+        "appetite": "strong",
+        "memory": "strong",
+        "brand": "medium",
+        "medium": "strong"
+      },
+      "tradeoff": "More human warmth than C09, with weaker immediate category identification."
+    },
+    {
+      "id": "C05",
+      "master_id": "burnett",
+      "line": "Hear the sizzle. Dinner arrives hot.",
+      "fact_ids": [
+        "F02",
+        "F06",
+        "F07"
+      ],
+      "application": {
+        "principle": "Find the drama in the product itself.",
+        "move": "Uses actual cooking sound and hot dine-in serving.",
+        "limit": "Dine-in only; no measured temperature, timing or delivery promise."
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "strong",
+        "memory": "strong",
+        "brand": "medium",
+        "medium": "strong"
+      },
+      "tradeoff": "Stronger food imagery, weaker brand linkage than C09."
+    },
+    {
+      "id": "C06",
+      "master_id": "caples",
+      "line": "One dish. One bowl of rice. Dinner for one.",
+      "fact_ids": [
+        "F02",
+        "F04",
+        "F06"
+      ],
+      "application": {
+        "principle": "Lead with a direct and understandable benefit.",
+        "move": "Makes the meal composition and individual portion easy to grasp.",
+        "limit": "No offer or response test is implied."
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "strong",
+        "memory": "medium",
+        "brand": "medium",
+        "medium": "medium"
+      },
+      "tradeoff": "Clear meal format, less distinctive phrasing."
+    },
+    {
+      "id": "C07",
+      "master_id": "schwartz",
+      "line": "Worked late. Still want a freshly stir-fried dinner.",
+      "fact_ids": [
+        "F02",
+        "F04",
+        "F06"
+      ],
+      "application": {
+        "principle": "Meet an existing desire at the audience awareness level.",
+        "move": "States the meal problem in the supplied intended scenario.",
+        "limit": "An audience assumption in a fictional brief, not a research finding."
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "strong",
+        "memory": "strong",
+        "brand": "medium",
+        "medium": "medium"
+      },
+      "tradeoff": "Recognizable situation, but lengthy as a lasting brand line."
+    },
+    {
+      "id": "C08",
+      "master_id": "young",
+      "line": "Add a stir-fry to the end of your shift.",
+      "fact_ids": [
+        "F02",
+        "F04",
+        "F06"
+      ],
+      "application": {
+        "principle": "Combine a product detail with a dining occasion.",
+        "move": "Connects adding a dish and ending the workday.",
+        "limit": "Applies recombination, not every stage of a human idea-generation process."
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "medium",
+        "appetite": "strong",
+        "memory": "strong",
+        "brand": "medium",
+        "medium": "medium"
+      },
+      "tradeoff": "Useful relationship; needs brand pairing and natural-language testing."
+    },
+    {
+      "id": "C09",
+      "master_id": "ries",
+      "line": "Late Wok. Late shifts, freshly stir-fried dinners.",
+      "fact_ids": [
+        "F01",
+        "F02",
+        "F03",
+        "F04",
+        "F06"
+      ],
+      "application": {
+        "principle": "Focus on one intended category and occasion.",
+        "move": "Brand, late work and stir-fried dinner reinforce one position.",
+        "limit": "Proposed focus, not proof of owning the position in customers minds."
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "strong",
+        "memory": "strong",
+        "brand": "strong",
+        "medium": "strong"
+      },
+      "tradeoff": "The clearest intended position, though longer in English than Chinese."
+    },
+    {
+      "id": "C10",
+      "master_id": "hegarty",
+      "line": "A table for one is enough to start the stir-fry.",
+      "fact_ids": [
+        "F02",
+        "F04",
+        "F06",
+        "F08"
+      ],
+      "application": {
+        "principle": "Question a documented convention with relevant difference.",
+        "move": "Reverses the supplied unused draft requiring friends to arrive first.",
+        "limit": "This challenges a specific team draft, not a universal industry norm."
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "medium",
+        "appetite": "strong",
+        "memory": "strong",
+        "brand": "medium",
+        "medium": "medium"
+      },
+      "tradeoff": "Inviting but longer and less compact than C04."
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "candidate_id": "C09",
+      "reason": "Clearest brand, category and late-work occasion; less interpretation than C04 and stronger brand linkage than C05.",
+      "placement": "Menu front and in-store poster; keep the full brand and show 20:30–23:00 dine-in ordering hours.",
+      "condition": "Only the six defined evening meals; no all-day, exclusive or delivery-state promise.",
+      "test": "Ask intended diners to recall the brand, food and relevant occasion; compare using the same layout."
+    },
+    {
+      "rank": 2,
+      "candidate_id": "C04",
+      "reason": "Gives solo diners a human reason to feel considered; warmer than the lead, less explicit on category.",
+      "placement": "Pair with Late Wok | Single-person stir-fried dinners on the menu or a solo-dining poster.",
+      "condition": "Must actually offer individually cooked single-person meals; do not suggest a private chef.",
+      "test": "Ask what food they expect and whether the line sounds like a restaurant or kitchenware advertisement."
+    },
+    {
+      "rank": 3,
+      "candidate_id": "C05",
+      "reason": "Cooking sound and hot serving make the food tangible; more sensory than C04, less brand-specific than the lead.",
+      "placement": "Pair with brand/category and an accurate dine-in food image.",
+      "condition": "Do not use as a delivery-temperature guarantee or add unmeasured timing/temperature.",
+      "test": "Ask what food and sensation come to mind and whether they would look at the menu; stated liking is not an order."
+    }
+  ],
+  "shortage_reason": "",
+  "validation": {
+    "consumer_test": "not_run",
+    "similarity_search": "not_run",
+    "editorial_review": "English editorial adaptation of the fictional Chinese example; no native-market consumer test."
+  }
+}

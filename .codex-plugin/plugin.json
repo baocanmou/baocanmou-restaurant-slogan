@@ -1,0 +1,48 @@
+{
+  "name": "baocanmou-restaurant-slogan",
+  "version": "1.1.0",
+  "description": "餐饮广告语十法三选 / Restaurant slogans: 10 source-based approaches, 3 recommendations.",
+  "author": {
+    "name": "包参谋 BaoCanMou · 易慧庭 Yi Huiting",
+    "url": "https://www.bcmsj.com"
+  },
+  "homepage": "https://github.com/yht0912/baocanmou-restaurant-slogan",
+  "repository": "https://github.com/yht0912/baocanmou-restaurant-slogan",
+  "license": "MIT",
+  "keywords": [
+    "restaurant",
+    "slogans",
+    "copywriting",
+    "advertising",
+    "agent-skills",
+    "chinese",
+    "english",
+    "baocanmou"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "包参谋·餐饮广告语 | Restaurant Slogans",
+    "shortDescription": "十种方法，一次比较，三条推荐 / 10 approaches → 3 picks",
+    "longDescription": "专为餐饮品牌：用10位广告与定位名家的核心方法分别写一条，核对餐饮依据与使用条件，再推荐3条。Restaurant-specific, source-based slogan creation in Chinese or English, with transparent comparisons and factual conditions.",
+    "developerName": "包参谋 BaoCanMou",
+    "category": "Productivity",
+    "capabilities": [],
+    "websiteURL": "https://github.com/yht0912/baocanmou-restaurant-slogan",
+    "privacyPolicyURL": "https://github.com/yht0912/baocanmou-restaurant-slogan/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/yht0912/baocanmou-restaurant-slogan/blob/main/NOTICE.md",
+    "defaultPrompt": [
+      "为我的餐饮品牌写10条广告语，比较后推荐3条。",
+      "Create 10 slogans for my restaurant and recommend 3.",
+      "检查餐饮广告语的事实依据与理论适用条件。"
+    ],
+    "brandColor": "#D5412D",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png",
+    "logoDark": "./assets/icon-dark.png",
+    "screenshots": [
+      "./assets/cover-bilingual.png",
+      "./assets/example-preview.png",
+      "./assets/social-poster-bilingual.png"
+    ]
+  }
+}

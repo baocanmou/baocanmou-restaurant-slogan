@@ -1,0 +1,359 @@
+{
+  "schema_version": "1.0",
+  "status": "complete",
+  "brief": {
+    "brand": "晚点小炒",
+    "category": "一人份现炒晚饭",
+    "audience_scene": "工作日下班较晚、独自堂食的人",
+    "task": "长期品牌广告语；不做价格促销",
+    "primary_medium": "菜单首页、店内品牌海报；连用品牌名与品类说明",
+    "fictional": true,
+    "facts": [
+      {
+        "id": "F01",
+        "text": "品牌：晚点小炒。",
+        "status": "fictional",
+        "source": "虚构简报·品牌"
+      },
+      {
+        "id": "F02",
+        "text": "主打六款一人份小炒餐，每份接单后逐份现炒，搭配一碗米饭；不扩大到菜单所有产品。",
+        "status": "fictional",
+        "source": "虚构简报·菜单与制作"
+      },
+      {
+        "id": "F03",
+        "text": "晚间堂食接单时间20:30—23:00；不承诺全天营业，也不承诺外卖到手状态。",
+        "status": "fictional",
+        "source": "虚构简报·经营范围"
+      },
+      {
+        "id": "F04",
+        "text": "主要服务工作日下班较晚、独自吃晚饭的人；这是示范设定，没有真实用户访谈。",
+        "status": "fictional",
+        "source": "虚构简报·目标场景"
+      },
+      {
+        "id": "F05",
+        "text": "希望表达：即使一人用餐，也认真做这顿晚饭；不以低价促销为主题。",
+        "status": "fictional",
+        "source": "虚构简报·品牌要求"
+      },
+      {
+        "id": "F06",
+        "text": "本次做长期品牌广告语，放菜单首页和店内海报，可连用“晚点小炒｜一人份现炒晚饭”。",
+        "status": "fictional",
+        "source": "虚构简报·使用条件"
+      },
+      {
+        "id": "F07",
+        "text": "六款小炒在炒制时有锅中响声，成菜作为堂食热食提供；没有量化温度或出餐分钟数。",
+        "status": "fictional",
+        "source": "虚构简报·感官与兑现"
+      },
+      {
+        "id": "F08",
+        "text": "本轮待修改旧稿写“朋友到齐，再开小炒”；它是未采用的团队草稿，不是竞品调研结论。",
+        "status": "fictional",
+        "source": "虚构简报·表达材料"
+      },
+      {
+        "id": "U01",
+        "text": "未提供竞品能力与表达调研，无法判断独特性或市场占位。",
+        "status": "unknown",
+        "source": "虚构简报·明确缺口"
+      }
+    ]
+  },
+  "candidates": [
+    {
+      "id": "C01",
+      "master_id": "ogilvy",
+      "line": "晚点小炒，把晚饭好好炒。",
+      "fact_ids": [
+        "F01",
+        "F02",
+        "F05",
+        "F06"
+      ],
+      "application": {
+        "principle": "用认真对待晚饭的态度与实际现炒建立一致形象。",
+        "move": "“好好炒”承载认真做一人晚饭的要求，并连到品牌名。",
+        "limit": "这是形象主张候选，长期认知尚未形成或验证。"
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "medium",
+        "memory": "medium",
+        "brand": "strong",
+        "medium": "strong"
+      },
+      "tradeoff": "品牌与态度清楚，但“好好”仍较宽泛，产品画面弱于C05。"
+    },
+    {
+      "id": "C02",
+      "master_id": "reeves",
+      "line": "晚八点半后，也有一人现炒。",
+      "fact_ids": [
+        "F02",
+        "F03",
+        "F04",
+        "U01"
+      ],
+      "application": {
+        "principle": "寻找有购买推动力的独特利益。",
+        "move": "把晚间可吃到一人份现炒作为差异候选，事实范围到23:00。",
+        "limit": "缺竞争调查，只完成利益方向，不能确认USP独特性。"
+      },
+      "eligibility": "conditional",
+      "conditions": [
+        "需核对目标商圈竞品能力与表达；连用营业范围，避免理解为整夜供应。"
+      ],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "strong",
+        "memory": "medium",
+        "brand": "medium",
+        "medium": "medium"
+      },
+      "tradeoff": "时间利益直接，但不够长期灵活，且USP的竞争前提缺失，不入选。"
+    },
+    {
+      "id": "C03",
+      "master_id": "hopkins",
+      "line": "你点一份，我们现炒一份。",
+      "fact_ids": [
+        "F02",
+        "F06"
+      ],
+      "application": {
+        "principle": "让具体制作事实替代泛泛夸赞。",
+        "move": "说清接单后逐份炒，不编时间、温度或新鲜程度。",
+        "limit": "只指六款一人小炒；没有真实反应测试。"
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "strong",
+        "memory": "strong",
+        "brand": "medium",
+        "medium": "strong"
+      },
+      "tradeoff": "兑现依据直接，点单处有用；缺晚间和品牌记忆，未优先选为长期主张。"
+    },
+    {
+      "id": "C04",
+      "master_id": "bernbach",
+      "line": "一个人吃饭，也值得起一口锅。",
+      "fact_ids": [
+        "F02",
+        "F04",
+        "F05",
+        "F06"
+      ],
+      "application": {
+        "principle": "用真实用餐处境中的矛盾让产品参与创意。",
+        "move": "把独自吃饭与值得认真做饭连起来，起锅是对一人现炒的具体回应。",
+        "limit": "为虚构场景的原创应用；纯文字未验证图文协同，需连用品类说明。"
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "medium",
+        "appetite": "strong",
+        "memory": "strong",
+        "brand": "medium",
+        "medium": "strong"
+      },
+      "tradeoff": "较有情感记忆，但单独看不够明确指向小炒，依赖品类搭配。"
+    },
+    {
+      "id": "C05",
+      "master_id": "burnett",
+      "line": "小炒滋啦响，晚饭热着上。",
+      "fact_ids": [
+        "F02",
+        "F06",
+        "F07"
+      ],
+      "application": {
+        "principle": "把产品自身可感知的瞬间当作创意中心。",
+        "move": "锅声和端上桌的热食形成用餐画面，没有添加品牌外的噱头。",
+        "limit": "仅适合堂食现炒，不承诺外卖到手温度或所有菜都发出相同声音。"
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "strong",
+        "memory": "strong",
+        "brand": "medium",
+        "medium": "strong"
+      },
+      "tradeoff": "食物感最直接；讲的是出锅时刻，作为长期主张时品牌归属弱于C09。"
+    },
+    {
+      "id": "C06",
+      "master_id": "caples",
+      "line": "一人一菜一碗饭，晚饭不必凑一桌。",
+      "fact_ids": [
+        "F02",
+        "F04",
+        "F06"
+      ],
+      "application": {
+        "principle": "先说明容易理解的顾客利益，留待反应测试。",
+        "move": "把一人可完整点一餐放在前面，减少需要凑人点大桌的顾虑。",
+        "limit": "无真实标题测试；不承诺特价或人人相同食量。"
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "strong",
+        "memory": "medium",
+        "brand": "medium",
+        "medium": "medium"
+      },
+      "tradeoff": "利益清楚但偏长，内容与C04相近而记忆更弱。"
+    },
+    {
+      "id": "C07",
+      "master_id": "schwartz",
+      "line": "下班晚了，还想吃口现炒的。",
+      "fact_ids": [
+        "F02",
+        "F04",
+        "F06"
+      ],
+      "application": {
+        "principle": "从已存在的用餐欲望切入，再指向产品。",
+        "move": "按知道晚饭问题、尚未认识本店的顾客假设，先接住现炒晚饭诉求。",
+        "limit": "认知阶段是示范假设，不冒充真实用户原话或已完成调研。"
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "strong",
+        "memory": "strong",
+        "brand": "medium",
+        "medium": "medium"
+      },
+      "tradeoff": "口语自然且符合场景，品牌记忆弱于C09，单独使用易成为通用品类句。"
+    },
+    {
+      "id": "C08",
+      "master_id": "young",
+      "line": "给下班的夜，加一道现炒。",
+      "fact_ids": [
+        "F02",
+        "F04",
+        "F06"
+      ],
+      "application": {
+        "principle": "从两份材料的关系产生新组合。",
+        "move": "把下班夜晚与菜单加一道菜联系起来，指向真实可提供的小炒。",
+        "limit": "这是材料组合与修订应用，不声称AI完成潜意识酝酿；需品类搭配。"
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "medium",
+        "appetite": "strong",
+        "memory": "strong",
+        "brand": "medium",
+        "medium": "medium"
+      },
+      "tradeoff": "有场景联想，但“给夜加菜”的比喻比C09多一层理解。"
+    },
+    {
+      "id": "C09",
+      "master_id": "ries",
+      "line": "晚点小炒，下班晚也吃现炒。",
+      "fact_ids": [
+        "F01",
+        "F02",
+        "F03",
+        "F04",
+        "F06"
+      ],
+      "application": {
+        "principle": "围绕一个明确的消费位置聚焦。",
+        "move": "用品牌名连接晚下班的一人现炒晚饭，不叠加无关利益。",
+        "limit": "表达希望建立的位置，未证明市场空位、独占或心智已形成；经营时间仍需另列。"
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "strong",
+        "appetite": "strong",
+        "memory": "strong",
+        "brand": "strong",
+        "medium": "strong"
+      },
+      "tradeoff": "品类、品牌、场景最完整；直白而略有重复，情绪与感官弱于C04、C05。"
+    },
+    {
+      "id": "C10",
+      "master_id": "hegarty",
+      "line": "小炒这一桌，一个人也开席。",
+      "fact_ids": [
+        "F02",
+        "F04",
+        "F06",
+        "F08"
+      ],
+      "application": {
+        "principle": "相关的反常规要提出一种可兑现的选择。",
+        "move": "针对本轮旧稿必须朋友到齐的写法，提出一个人也可开席。",
+        "limit": "只挑战给定团队旧稿，不声称全行业都只接受多人用餐。"
+      },
+      "eligibility": "eligible",
+      "conditions": [],
+      "comparison": {
+        "clarity": "medium",
+        "appetite": "strong",
+        "memory": "strong",
+        "brand": "medium",
+        "medium": "medium"
+      },
+      "tradeoff": "有反差但“开席”可能让人期待多道大餐，需配一人份产品信息，未优先选。"
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "candidate_id": "C09",
+      "reason": "优先解决新客一眼看懂品牌、品类与晚下班场景的问题；比C04少一层解释，比C05更容易与本店名联系。",
+      "placement": "菜单首页和品牌海报；保留完整品牌名，旁边列堂食接单时段20:30—23:00。",
+      "condition": "只用于既定晚间六款小炒餐；不暗示全天营业、唯一供应或外卖同等状态。",
+      "test": "请目标顾客读后复述店名、卖什么及适合何时来；与另外两条在同样版面下比较。"
+    },
+    {
+      "rank": 2,
+      "candidate_id": "C04",
+      "reason": "突出一个人也被认真对待的用餐感受，适合希望留下亲切记忆时；比主推更有情绪，品类识别稍弱。",
+      "placement": "连用“晚点小炒｜一人份现炒晚饭”，主句置于菜单首页或一人用餐场景海报。",
+      "condition": "必须真实提供一人份接单现炒，不能让顾客误解为私人厨房服务。",
+      "test": "询问读者以为这家提供什么餐、为何与自己有关；确认没有被理解成锅具或厨具广告。"
+    },
+    {
+      "rank": 3,
+      "candidate_id": "C05",
+      "reason": "锅声和热食直接唤起用餐画面，适合产品吸引力优先时；比C04更有食物感，但品牌归属弱于主推。",
+      "placement": "菜单首页连用品牌名与一人小炒品类；海报配真实出锅或上桌画面。",
+      "condition": "堂食表达，不用于承诺外卖热度；不增加未经测量的温度或速度数字。",
+      "test": "让顾客说出脑海里出现的菜和感觉，再看是否愿意翻菜单；不把口头喜欢等同真实订单。"
+    }
+  ],
+  "shortage_reason": "",
+  "validation": {
+    "consumer_test": "not_run",
+    "similarity_search": "not_run",
+    "editorial_review": "AI辅助编辑复核；强中弱是编辑判断，不是消费者实测"
+  }
+}

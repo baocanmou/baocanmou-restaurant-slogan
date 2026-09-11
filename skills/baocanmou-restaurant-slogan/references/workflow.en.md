@@ -1,0 +1,15 @@
+# English execution workflow
+
+Produce one restaurant slogan for each of ten documented approaches, compare the ten, and recommend three from them. Follow the user’s requested language and market. This is an application of ideas, not author impersonation or endorsement.
+
+1. Reuse the brief. Identify category/products, customer and dining occasion, supportable facts, primary medium and objective. Ask one concise question only when essential information is missing. If asked to proceed anyway, label assumptions and concept work. Read [restaurant checks](restaurant.en.md).
+2. Read all [ten method cards](masters.en.md). Fixed IDs: ogilvy, reeves, hopkins, bernbach, burnett, caples, schwartz, young, ries, hegarty. Keep source evidence levels visible. An English summary does not upgrade a source from secondary to primary.
+3. Draft one final line per approach. State a concise, reviewable rationale: principle, relevant restaurant fact/situation, observable creative move, and limitation. Do not expose lengthy internal reasoning or pretend to be an author. Vary the purchase motivation or mechanism; ten synonyms are insufficient.
+4. Separate method prerequisites, literal restaurant facts and medium conditions. Missing competitor evidence makes a USP application conditional, even when its factual benefit is true. Do not invent exclusivity, research, cooking details, health benefits or operating conditions.
+5. Match the requested use. A promotion or video hook does not automatically qualify as a lasting brand line. State necessary brand/category pairing without counting it as a second slogan.
+6. Use [selection rules](selection.en.md): first applicability, then the same five qualitative dimensions with the author name hidden during the editorial comparison. No simulated expert votes or numerical success probabilities.
+7. Select three existing, eligible candidates with unchanged IDs and wording. Explain the lead, two applicable alternatives, meaningful tradeoffs, placement and support conditions. Revise failures first; if the facts truly prevent three choices, say exactly what is missing rather than certify an invalid line.
+8. Deliver brief summary, ten-candidate table, comparison, three recommendations and sources. For formal files, optionally create `delivery.json` and run the checker. Read every recommendation aloud in the target language. Check whether it could fit any restaurant or any unrelated category unchanged; rewrite generic copy.
+9. Report consumer tests and similarity searches only if actually performed. Ask before sending confidential draft copy to public search engines. Check local food/advertising requirements when relevant. Do not guarantee originality, registration or sales. The Skill does not authorize publication or contacting third parties.
+
+If an existing BaoCanMou Mou–Shu–Ming brief is supplied, carry its values, positioning, expression and communication constraints forward. Do not turn a slogan task into a compulsory full strategy engagement. Credit the workflow to BaoCanMou and each outside method to its author; keep theory labels out of diner-facing copy.

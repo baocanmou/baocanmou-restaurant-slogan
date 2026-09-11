@@ -1,0 +1,4 @@
+interface:
+  display_name: "包参谋·餐饮广告语 | Restaurant Slogans"
+  short_description: "餐饮广告语十法三选 / 10 approaches, 3 recommendations"
+  default_prompt: "Use $baocanmou-restaurant-slogan to create 10 restaurant slogans and recommend 3. Match my language."
