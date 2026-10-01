@@ -6,8 +6,8 @@
     "name": "包参谋 BaoCanMou · 易慧庭 Yi Huiting",
     "url": "https://www.bcmsj.com"
   },
-  "homepage": "https://github.com/yht0912/baocanmou-restaurant-slogan",
-  "repository": "https://github.com/yht0912/baocanmou-restaurant-slogan",
+  "homepage": "https://github.com/baocanmou/baocanmou-restaurant-slogan",
+  "repository": "https://github.com/baocanmou/baocanmou-restaurant-slogan",
   "license": "MIT",
   "keywords": [
     "restaurant",
@@ -27,9 +27,9 @@
     "developerName": "包参谋 BaoCanMou",
     "category": "Productivity",
     "capabilities": [],
-    "websiteURL": "https://github.com/yht0912/baocanmou-restaurant-slogan",
-    "privacyPolicyURL": "https://github.com/yht0912/baocanmou-restaurant-slogan/blob/main/PRIVACY.md",
-    "termsOfServiceURL": "https://github.com/yht0912/baocanmou-restaurant-slogan/blob/main/NOTICE.md",
+    "websiteURL": "https://github.com/baocanmou/baocanmou-restaurant-slogan",
+    "privacyPolicyURL": "https://github.com/baocanmou/baocanmou-restaurant-slogan/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/baocanmou/baocanmou-restaurant-slogan/blob/main/NOTICE.md",
     "defaultPrompt": [
       "为我的餐饮品牌写10条广告语，比较后推荐3条。",
       "Create 10 slogans for my restaurant and recommend 3.",

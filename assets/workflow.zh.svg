@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+<title>餐饮广告语·十法三选：工作流程</title>
+<rect width="1200" height="520" rx="20" fill="#faf8f3"/>
+<text x="30.5" y="62" font-size="28" font-weight="700" fill="#111111">餐饮广告语·十法三选：工作流程</text>
+<text x="30.5" y="98" font-size="17" fill="#686860">同一份餐饮资料 → 十位名家方法各写一条 → 同一标准比较 → 从十条里推荐三条</text>
+<rect x="30.5" y="150" width="172" height="280" rx="12" fill="#ffffff" stroke="#e4e0d5" stroke-width="1.5"/>
+<circle cx="60.5" cy="184" r="16" fill="#111111"/><text x="60.5" y="190" font-size="16" font-weight="700" fill="#faf8f3" text-anchor="middle">1</text>
+<text x="46.5" y="232" font-size="19" font-weight="700" fill="#111111">读清这顿饭</text>
+<text x="46.5" y="270" font-size="14.5" fill="#686860">品类与主打产品</text>
+<text x="46.5" y="292" font-size="14.5" fill="#686860">顾客与用餐场景</text>
+<text x="46.5" y="314" font-size="14.5" fill="#686860">能兑现的事实</text>
+<text x="46.5" y="336" font-size="14.5" fill="#686860">这句话用在哪里</text>
+<text x="46.5" y="358" font-size="14.5" fill="#686860">缺关键资料只问一句</text>
+<path d="M205.5 290.0H219.5M213.5 284.0L219.5 290.0L213.5 296.0" fill="none" stroke="#111111" stroke-width="2"/>
+<rect x="223.5" y="150" width="172" height="280" rx="12" fill="#ffffff" stroke="#e4e0d5" stroke-width="1.5"/>
+<circle cx="253.5" cy="184" r="16" fill="#111111"/><text x="253.5" y="190" font-size="16" font-weight="700" fill="#faf8f3" text-anchor="middle">2</text>
+<text x="239.5" y="232" font-size="19" font-weight="700" fill="#111111">分清事实状态</text>
+<text x="239.5" y="270" font-size="14.5" fill="#686860">用户提供</text>
+<text x="239.5" y="292" font-size="14.5" fill="#686860">可核对证据</text>
+<text x="239.5" y="314" font-size="14.5" fill="#686860">未知项</text>
+<text x="239.5" y="336" font-size="14.5" fill="#686860">虚构演示</text>
+<text x="239.5" y="358" font-size="14.5" fill="#686860">不写未核对的“已验证”</text>
+<path d="M398.5 290.0H412.5M406.5 284.0L412.5 290.0L406.5 296.0" fill="none" stroke="#111111" stroke-width="2"/>
+<rect x="416.5" y="150" width="172" height="280" rx="12" fill="#ffd900" stroke="#111111" stroke-width="2"/>
+<circle cx="446.5" cy="184" r="16" fill="#111111"/><text x="446.5" y="190" font-size="16" font-weight="700" fill="#faf8f3" text-anchor="middle">3</text>
+<text x="432.5" y="232" font-size="19" font-weight="700" fill="#111111">十种方法</text>
+<text x="432.5" y="256" font-size="19" font-weight="700" fill="#111111">各写一条</text>
+<text x="432.5" y="294" font-size="14.5" fill="#111111">10 张名家方法卡</text>
+<text x="432.5" y="316" font-size="14.5" fill="#111111">每位只留一条</text>
+<text x="432.5" y="338" font-size="14.5" fill="#111111">缺前提标“条件稿”</text>
+<text x="432.5" y="360" font-size="14.5" fill="#111111">不编产地、工序、功效</text>
+<path d="M591.5 290.0H605.5M599.5 284.0L605.5 290.0L599.5 296.0" fill="none" stroke="#111111" stroke-width="2"/>
+<rect x="609.5" y="150" width="172" height="280" rx="12" fill="#ffffff" stroke="#e4e0d5" stroke-width="1.5"/>
+<circle cx="639.5" cy="184" r="16" fill="#111111"/><text x="639.5" y="190" font-size="16" font-weight="700" fill="#faf8f3" text-anchor="middle">4</text>
+<text x="625.5" y="232" font-size="19" font-weight="700" fill="#111111">同一标准比较</text>
+<text x="625.5" y="270" font-size="14.5" fill="#686860">隐去作者名再看</text>
+<text x="625.5" y="292" font-size="14.5" fill="#686860">看懂 · 想吃/想来</text>
+<text x="625.5" y="314" font-size="14.5" fill="#686860">记住/复述</text>
+<text x="625.5" y="336" font-size="14.5" fill="#686860">品牌归属 · 触点适配</text>
+<text x="625.5" y="358" font-size="14.5" fill="#686860">等级是编辑判断</text>
+<path d="M784.5 290.0H798.5M792.5 284.0L798.5 290.0L792.5 296.0" fill="none" stroke="#111111" stroke-width="2"/>
+<rect x="802.5" y="150" width="172" height="280" rx="12" fill="#ffd900" stroke="#111111" stroke-width="2"/>
+<circle cx="832.5" cy="184" r="16" fill="#111111"/><text x="832.5" y="190" font-size="16" font-weight="700" fill="#faf8f3" text-anchor="middle">5</text>
+<text x="818.5" y="232" font-size="19" font-weight="700" fill="#111111">从十条选三条</text>
+<text x="818.5" y="270" font-size="14.5" fill="#111111">主推 + 两条备选</text>
+<text x="818.5" y="292" font-size="14.5" fill="#111111">保留原编号和原句</text>
+<text x="818.5" y="314" font-size="14.5" fill="#111111">写清连用、兑现</text>
+<text x="818.5" y="336" font-size="14.5" fill="#111111">条件与验证办法</text>
+<path d="M977.5 290.0H991.5M985.5 284.0L991.5 290.0L985.5 296.0" fill="none" stroke="#111111" stroke-width="2"/>
+<rect x="995.5" y="150" width="172" height="280" rx="12" fill="#ffffff" stroke="#e4e0d5" stroke-width="1.5"/>
+<circle cx="1025.5" cy="184" r="16" fill="#111111"/><text x="1025.5" y="190" font-size="16" font-weight="700" fill="#faf8f3" text-anchor="middle">6</text>
+<text x="1011.5" y="232" font-size="19" font-weight="700" fill="#111111">交付与复查</text>
+<text x="1011.5" y="270" font-size="14.5" fill="#686860">候选表 · 比较表</text>
+<text x="1011.5" y="292" font-size="14.5" fill="#686860">三条推荐 · 方法来源</text>
+<text x="1011.5" y="314" font-size="14.5" fill="#686860">可选 delivery.json</text>
+<text x="1011.5" y="336" font-size="14.5" fill="#686860">check_delivery.py</text>
+<text x="1011.5" y="358" font-size="14.5" fill="#686860">只查结构，不评文案</text>
+<line x1="30.5" y1="460" x2="1169.5" y2="460" stroke="#e4e0d5" stroke-width="1.5"/>
+<text x="30.5" y="492" font-size="15" fill="#686860">依据：skills/baocanmou-restaurant-slogan/SKILL.md 与 references/。不自动发布，不代替消费者测试或商标查询。</text>
+</svg>

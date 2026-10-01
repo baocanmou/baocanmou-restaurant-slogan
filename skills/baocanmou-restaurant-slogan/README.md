@@ -8,7 +8,7 @@ Keep this entire folder together. Install in your assistant’s Skill directory 
 - [English execution](references/workflow.en.md)
 - [中文方法卡](references/masters.md) / [English cards](references/masters.en.md)
 - [English example](examples/late-wok.en.md)
-- [Complete bilingual installation, license and attribution](https://github.com/yht0912/baocanmou-restaurant-slogan)
+- [Complete bilingual installation, license and attribution](https://github.com/baocanmou/baocanmou-restaurant-slogan)
 
 Optional local check / 可选结构检查：`python3 scripts/check_delivery.py examples/late-wok.en.json`。Python 3.10+，仅标准库。The check does not judge literary quality, truth or sales impact.
 

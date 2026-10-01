@@ -10,7 +10,7 @@
 | `baocanmou-restaurant-slogan-plugin-v1.1.1.zip` | 插件清单、Skill、中英文文档、图片和贡献文件 / Full Codex plugin and repository content |
 | `SHA256SUMS.txt` | 核对下载文件 / Verify downloaded archives |
 
-下载入口 / Download: [GitHub Releases](https://github.com/yht0912/baocanmou-restaurant-slogan/releases/latest)。
+下载入口 / Download: [GitHub Releases](https://github.com/baocanmou/baocanmou-restaurant-slogan/releases/latest)。
 
 无需 Python 即可手动安装。先解压；真正要复制的目录内必须直接包含 `SKILL.md`，不要把 ZIP 或外面多套的一层目录放进去。保留 `references/`、`scripts/`、`examples/`，不要只复制入口文件。
 
@@ -31,7 +31,7 @@ Hosts differ in discovery and project-level support. If you already use a shared
 从 GitHub 克隆后可使用本仓库的保守安装工具 / From a clone, use the included installer:
 
 ```bash
-git clone https://github.com/yht0912/baocanmou-restaurant-slogan.git
+git clone https://github.com/baocanmou/baocanmou-restaurant-slogan.git
 cd baocanmou-restaurant-slogan
 python3 scripts/install_skill.py --host codex --dry-run
 python3 scripts/install_skill.py --host codex

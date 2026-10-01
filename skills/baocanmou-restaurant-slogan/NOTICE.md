@@ -8,4 +8,4 @@ Third-party source works and pre-existing BaoCanMou trademarks/framework works a
 
 所有案例为虚构，英文例为编辑改写，不是顾客实测。 / All examples are fictional; English copy is an editorial adaptation, not consumer-tested. No originality, registration or sales guarantee. Newly generated slogans do not need a mandatory BaoCanMou credit under MIT.
 
-[Full project notices and attribution](https://github.com/yht0912/baocanmou-restaurant-slogan/blob/main/NOTICE.md)
+[Full project notices and attribution](https://github.com/baocanmou/baocanmou-restaurant-slogan/blob/main/NOTICE.md)

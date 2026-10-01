@@ -28,9 +28,9 @@ MIT permits commercial use, modification and redistribution. **Visible credit an
 
 ## 可直接复制 / Copy-ready credit
 
-> 本文使用包参谋开源的「餐饮广告语：十法三选」工作流，发起与产品方向：易慧庭。项目地址：https://github.com/yht0912/baocanmou-restaurant-slogan 。十种理论各归原作者，餐饮应用与比较流程由包参谋编写。
+> 本文使用包参谋开源的「餐饮广告语：十法三选」工作流，发起与产品方向：易慧庭。项目地址：https://github.com/baocanmou/baocanmou-restaurant-slogan 。十种理论各归原作者，餐饮应用与比较流程由包参谋编写。
 
-> Built using BaoCanMou’s open-source Restaurant Slogans: Ten Approaches, Three Picks. Concept and product direction: Yi Huiting. Source: https://github.com/yht0912/baocanmou-restaurant-slogan . The theories remain attributed to their authors; the restaurant applications and comparison workflow were written for this project.
+> Built using BaoCanMou’s open-source Restaurant Slogans: Ten Approaches, Three Picks. Concept and product direction: Yi Huiting. Source: https://github.com/baocanmou/baocanmou-restaurant-slogan . The theories remain attributed to their authors; the restaurant applications and comparison workflow were written for this project.
 
 衍生项目建议 / Suggested derivative notice:
 

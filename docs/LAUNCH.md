@@ -24,7 +24,7 @@
 
 完整十条、比较、使用条件和方法出处都放在 GitHub。中文、英文说明与安装包一起提供，MIT 开源。它是辅助判断的工具；实际用之前，仍要核对你店里的经营事实和顾客反应。
 
-GitHub 搜索：`yht0912 / baocanmou-restaurant-slogan`。
+GitHub 搜索：`baocanmou / baocanmou-restaurant-slogan`。
 
 示范品牌为虚构，配图为项目宣传插画。
 
@@ -46,7 +46,7 @@ Each candidate explains its source-based method, restaurant facts and usage cond
 
 This is a practical editorial workflow, not an endorsement by the named authors or a promise of sales results. Start with the examples and use real restaurant facts.
 
-Project: https://github.com/yht0912/baocanmou-restaurant-slogan
+Project: https://github.com/baocanmou/baocanmou-restaurant-slogan
 
 Publisher: BaoCanMou. Concept and product direction: Yi Huiting.
 

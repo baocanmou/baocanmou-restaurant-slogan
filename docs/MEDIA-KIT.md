@@ -4,7 +4,11 @@
 
 | 文件 / File | 尺寸与格式 / Format | 用途 / Use |
 |---|---|---|
-| [双语封面 / Cover](../assets/cover-bilingual.png) | 1536 × 1024 PNG | GitHub README、文章题图、插件详情 / README, article hero, plugin detail |
+| [README 封面 / README cover](../assets/cover.png) | 1280 × 640 PNG | 中英文 README 顶部 / Top of both READMEs |
+| [中文流程图 / Chinese workflow](../assets/workflow.zh.svg) · [English workflow](../assets/workflow.en.svg) | 1200 × 520 SVG | README 工作流程 / README workflow section |
+| [中文示例截图：十条候选](../assets/example-candidates.zh.png) · [三条推荐](../assets/example-picks.zh.png) | 1280 px wide PNG | 由随包示例 Markdown 渲染截图 / Rendered from the bundled Chinese example |
+| [English example: candidates](../assets/example-candidates.en.png) · [picks](../assets/example-picks.en.png) | 1280 px wide PNG | Rendered from `examples/late-wok.en.md` |
+| [双语封面 / Cover](../assets/cover-bilingual.png) | 1536 × 1024 PNG | 文章题图、插件详情 / Article hero, plugin detail |
 | [竖版海报 / Portrait](../assets/social-poster-bilingual.png) | 1024 × 1536 PNG | 小红书及社交媒体竖图素材 / Portrait social announcement |
 | [示范输出 / Example preview](../assets/example-preview.png) | 1280 px wide PNG | 展示真实随包样例的排版 / Layout of bundled fictional sample |
 | [流程图 / Workflow](../assets/workflow.svg) | 1440 × 600 SVG | 文档、教程、演示 / Docs, tutorials, presentations |
