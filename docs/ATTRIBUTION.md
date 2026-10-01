@@ -12,9 +12,9 @@
 | 日期 / Date | 2026-09-11 |
 | License | MIT |
 
-不公开个人联系方式或客户资料。技术反馈使用仓库 Issues，品牌服务通过官网了解。以上角色不声称每行文字都由易慧庭手写，AI 辅助制作已披露。
+不公开个人联系方式或客户资料。技术反馈使用仓库 Issues，品牌服务通过官网了解。
 
-No private contact details or client materials are published. Use Issues for technical feedback and the website for business information. These roles do not claim that every line was personally written by Yi Huiting; AI assistance is disclosed.
+No private contact details or client materials are published. Use Issues for technical feedback and the website for business information.
 
 ## 必须保留 / Required notices
 

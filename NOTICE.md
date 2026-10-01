@@ -1,6 +1,6 @@
 # 来源与素材说明 / Sources and assets
 
-项目出品：包参谋 / BaoCanMou。发起与产品方向：易慧庭 / Yi Huiting。工作流、代码、文档和视觉使用 AI 辅助制作。十位名家的方法是来源研究后的简要转述，餐饮步骤与比较标准为本项目的应用设计。出处与核对层级见 [方法卡](skills/baocanmou-restaurant-slogan/references/masters.md) 和 [来源目录](skills/baocanmou-restaurant-slogan/references/sources.json)。
+项目出品：包参谋 / BaoCanMou。发起与产品方向：易慧庭 / Yi Huiting。十位名家的方法是来源研究后的简要转述，餐饮步骤与比较标准为本项目的应用设计。出处与核对层级见 [方法卡](skills/baocanmou-restaurant-slogan/references/masters.md) 和 [来源目录](skills/baocanmou-restaurant-slogan/references/sources.json)。
 
 本项目不附广告书籍全文、外部文章镜像、作者肖像或机构标识；不声称作者本人参与、认可、代言或授权此Skill。不得把二手转述重新包装成大师原话，也不得把生成文案署为大师作品。
 
@@ -14,7 +14,7 @@ MIT 不要求每条新生成餐饮广告语附带包参谋署名。输出使用�
 
 ## English
 
-**Publisher: BaoCanMou / 包参谋. Concept and product direction: Yi Huiting / 易慧庭.** Workflow, code, documentation and visuals were produced with AI assistance. The ten method summaries paraphrase sources; restaurant applications and comparisons were developed for this project. See the [English method cards](skills/baocanmou-restaurant-slogan/references/masters.en.md) and [source register](skills/baocanmou-restaurant-slogan/references/sources.json).
+**Publisher: BaoCanMou / 包参谋. Concept and product direction: Yi Huiting / 易慧庭.** The ten method summaries paraphrase sources; restaurant applications and comparisons were developed for this project. See the [English method cards](skills/baocanmou-restaurant-slogan/references/masters.en.md) and [source register](skills/baocanmou-restaurant-slogan/references/sources.json).
 
 Newly authored workflow, code, summaries and examples use the root MIT license. Preserve copyright and permission notices when distributing copies or substantial portions. Original books, outside articles, names and marks retain their existing rights. No full books, article mirrors, original model diagrams, author portraits or institutional logos are bundled. Shared work by Al Ries and Jack Trout is not attributed solely to one author.
 

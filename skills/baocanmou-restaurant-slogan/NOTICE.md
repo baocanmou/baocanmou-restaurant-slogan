@@ -1,6 +1,6 @@
 # Sources and license / 来源与许可
 
-Publisher: BaoCanMou / 包参谋. Concept and product direction: Yi Huiting / 易慧庭. AI-assisted workflow, software and examples, MIT licensed; retain copyright and permission notices when copying substantial project material.
+Publisher: BaoCanMou / 包参谋. Concept and product direction: Yi Huiting / 易慧庭. Workflow, software and examples, MIT licensed; retain copyright and permission notices when copying substantial project material.
 
 原作者理论与本项目餐饮应用分别归属。见 [中文方法卡](references/masters.md)、[English cards](references/masters.en.md) 和 [来源记录](references/sources.json)。不包含书籍全文、名家肖像、机构标志或客户资料。既有包参谋商标与谋术鸣完整作品不重新授权。没有作者或机构背书。
 

@@ -162,7 +162,7 @@ python3 -B -m unittest discover -s scripts -p "test_*.py" -v
 
 ## 许可与署名
 
-**项目出品：包参谋 / BaoCanMou。发起与产品方向：易慧庭 / Yi Huiting。** 工作流、代码、说明和视觉由包参谋组织，使用 AI 辅助制作。
+**项目出品：包参谋 / BaoCanMou。发起与产品方向：易慧庭 / Yi Huiting。** 工作流、代码、说明和视觉由包参谋组织完成。
 
 新编代码、工作流和随附文档使用 [MIT License](LICENSE)。复制或分发本项目的全部或实质部分须保留版权和许可声明；MIT 不要求每条新生成的广告语附带包参谋署名。
 

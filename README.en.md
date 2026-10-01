@@ -163,7 +163,7 @@ python3 -B -m unittest discover -s scripts -p "test_*.py" -v
 
 ## License and credit
 
-**Publisher: BaoCanMou / 包参谋. Concept and product direction: Yi Huiting / 易慧庭.** Workflow, code, documentation and visuals were produced under BaoCanMou's direction with AI assistance.
+**Publisher: BaoCanMou / 包参谋. Concept and product direction: Yi Huiting / 易慧庭.** Workflow, code, documentation and visuals were produced by BaoCanMou.
 
 Newly authored code, workflow and documentation are distributed under the [MIT License](LICENSE). Preserve the copyright and license notice when redistributing copies or substantial portions. MIT does not require a BaoCanMou credit on every newly generated slogan.
 
