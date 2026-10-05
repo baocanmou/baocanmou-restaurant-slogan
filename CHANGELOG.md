@@ -1,5 +1,11 @@
 # Changelog / 版本记录
 
+## 1.2.0 — 2026-10-05
+
+- 支持国产 AI 工具：安装说明补充 Kimi Code CLI、文心快码、Qwen Code、TRAE、豆包、扣子。 / Install notes for Kimi Code CLI, Baidu Comate, Qwen Code, TRAE, Doubao and Coze.
+- 新增聊天版 `PROMPT.md`，DeepSeek、Kimi、豆包、通义千问、文心等聊天窗口复制即用；由 `scripts/build_prompt.py` 从 SKILL.md 生成，并有回归检查。 / New chat-app prompt generated from SKILL.md, with a freshness test.
+- SKILL.md 说明脚本路径相对于技能目录。 / SKILL.md notes that script paths are relative to the skill folder.
+
 ## 1.1.1 — 2026-09-11
 
 - 修复升级时旧 Skill 备份位置：移到技能扫描目录之外，避免宿主发现重复入口；新增 3 项安装回归。 / Move upgrade backups outside the skills discovery directory to avoid duplicate entries; add 3 installer regressions.

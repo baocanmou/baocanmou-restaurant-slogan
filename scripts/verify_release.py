@@ -21,7 +21,7 @@ def main():
         if not (ROOT / rel).is_file():
             errors.append('Missing ' + rel)
     manifest = json.loads((ROOT / '.codex-plugin/plugin.json').read_text(encoding='utf-8'))
-    if manifest['name'] != 'baocanmou-restaurant-slogan' or manifest['version'] != '1.1.1':
+    if manifest['name'] != 'baocanmou-restaurant-slogan' or manifest['version'] != '1.2.0':
         errors.append('Unexpected name/version')
     if not manifest.get('author', {}).get('name') or manifest.get('license') != 'MIT':
         errors.append('Author/license required')

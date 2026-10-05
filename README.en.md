@@ -4,7 +4,7 @@
 
 [中文](README.md) · **English**
 
-[![Version](https://img.shields.io/badge/version-1.1.1-111111)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-1.2.0-111111)](CHANGELOG.md)
 [![License](https://img.shields.io/badge/license-MIT-111111)](LICENSE)
 [![Checks](https://github.com/baocanmou/baocanmou-restaurant-slogan/actions/workflows/validate.yml/badge.svg)](https://github.com/baocanmou/baocanmou-restaurant-slogan/actions/workflows/validate.yml)
 [![Gitee mirror](https://img.shields.io/badge/Gitee-mirror-c71d23)](https://gitee.com/baocanmou/baocanmou-restaurant-slogan)
@@ -65,14 +65,23 @@ These ten are the project's selection, not a ranking. Each line applies one docu
 
 **Option 1: download a release and install by hand (no Python needed)**
 
-1. Download `baocanmou-restaurant-slogan-skill-v1.1.1.zip` from [Releases](https://github.com/baocanmou/baocanmou-restaurant-slogan/releases/latest).
+1. Download `baocanmou-restaurant-slogan-skill-v1.2.0.zip` from [Releases](https://github.com/baocanmou/baocanmou-restaurant-slogan/releases/latest).
 2. Extract it, find the folder that directly contains `SKILL.md`, and copy that whole folder into your host's skills directory, keeping `references/`, `scripts/` and `examples/`:
 
-| Host | User-level destination |
+| Host | User-level destination or install entry |
 |---|---|
-| Codex | `~/.agents/skills/baocanmou-restaurant-slogan/` |
+| Codex, Kimi Code CLI, Baidu Comate | `~/.agents/skills/baocanmou-restaurant-slogan/` |
 | Claude Code | `~/.claude/skills/baocanmou-restaurant-slogan/` |
+| Qwen Code | `~/.qwen/skills/baocanmou-restaurant-slogan/` |
+| TRAE | `~/.trae/skills/baocanmou-restaurant-slogan/` |
+| Doubao, Coze | Upload the zip as-is on the Skills page |
 | Other Agent Skills hosts | Follow that host's current documentation |
+
+On Windows, replace `~` with `%USERPROFILE%`. Skill folders may change; follow each tool's current docs.
+
+**Option 3: use it in a chat app (no install)**
+
+Chat apps such as DeepSeek, Kimi, Doubao, Qwen and ERNIE cannot load Skills. Open [PROMPT.md](skills/baocanmou-restaurant-slogan/PROMPT.md) ([GitHub](https://github.com/baocanmou/baocanmou-restaurant-slogan/blob/main/skills/baocanmou-restaurant-slogan/PROMPT.md) · [Gitee](https://gitee.com/baocanmou/baocanmou-restaurant-slogan/blob/main/skills/baocanmou-restaurant-slogan/PROMPT.md)), paste the whole file as your first message (or attach it), then describe the restaurant. The chat version is in Chinese, skips the check script and reviews by hand.
 
 **Option 2: clone and use the installer**
 
@@ -151,7 +160,7 @@ No. The check confirms counts, authors, IDs, status and sources line up. It does
 
 ## Version and updates
 
-Current version: **v1.1.1** (2026-09-11). See [CHANGELOG.md](CHANGELOG.md) for changes and [Releases](https://github.com/baocanmou/baocanmou-restaurant-slogan/releases) for packages.
+Current version: **v1.2.0** (2026-10-05). See [CHANGELOG.md](CHANGELOG.md) for changes and [Releases](https://github.com/baocanmou/baocanmou-restaurant-slogan/releases) for packages.
 
 Repository checks (same as CI):
 
@@ -169,7 +178,7 @@ Newly authored code, workflow and documentation are distributed under the [MIT L
 
 The ten authors' theories belong to their authors; the method cards are brief paraphrases based on source research. An existing Mou–Shu–Ming positioning brief can be carried forward as input; BaoCanMou's pre-existing Mou–Shu–Ming framework is not newly licensed by this package. Late Wok and the Chinese stir-fry and tea-shop examples are fictional. See [NOTICE.md](NOTICE.md) and the [attribution guide](docs/ATTRIBUTION.md).
 
-Suggested citation: **BaoCanMou. Restaurant Slogans: Ten Approaches, Three Picks. Version 1.1.1, 2026.** Machine-readable citation: [CITATION.cff](CITATION.cff). [Contributing](CONTRIBUTING.md) · [Issues](https://github.com/baocanmou/baocanmou-restaurant-slogan/issues) · [Media kit](docs/MEDIA-KIT.md)
+Suggested citation: **BaoCanMou. Restaurant Slogans: Ten Approaches, Three Picks. Version 1.2.0, 2026.** Machine-readable citation: [CITATION.cff](CITATION.cff). [Contributing](CONTRIBUTING.md) · [Issues](https://github.com/baocanmou/baocanmou-restaurant-slogan/issues) · [Media kit](docs/MEDIA-KIT.md)
 
 ## Other BaoCanMou open-source projects
 

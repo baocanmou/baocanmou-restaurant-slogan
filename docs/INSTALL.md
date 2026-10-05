@@ -6,8 +6,8 @@
 
 | Release 文件 / File | 用途 / Purpose |
 |---|---|
-| `baocanmou-restaurant-slogan-skill-v1.1.1.zip` | 精简完整 Skill，适合技能目录安装 / Complete standalone Skill |
-| `baocanmou-restaurant-slogan-plugin-v1.1.1.zip` | 插件清单、Skill、中英文文档、图片和贡献文件 / Full Codex plugin and repository content |
+| `baocanmou-restaurant-slogan-skill-v1.2.0.zip` | 精简完整 Skill，适合技能目录安装 / Complete standalone Skill |
+| `baocanmou-restaurant-slogan-plugin-v1.2.0.zip` | 插件清单、Skill、中英文文档、图片和贡献文件 / Full Codex plugin and repository content |
 | `SHA256SUMS.txt` | 核对下载文件 / Verify downloaded archives |
 
 下载入口 / Download: [GitHub Releases](https://github.com/baocanmou/baocanmou-restaurant-slogan/releases/latest)。
@@ -20,9 +20,14 @@ Manual installation does not require Python. Extract the archive, locate the fol
 
 | 宿主 / Host | 用户级目录 / User-level destination |
 |---|---|
-| Codex | `~/.agents/skills/baocanmou-restaurant-slogan/` |
+| Codex、Kimi Code CLI、文心快码 Comate / Baidu Comate | `~/.agents/skills/baocanmou-restaurant-slogan/` |
 | Claude Code | `~/.claude/skills/baocanmou-restaurant-slogan/` |
+| 通义千问 Qwen Code | `~/.qwen/skills/baocanmou-restaurant-slogan/` |
+| TRAE | `~/.trae/skills/baocanmou-restaurant-slogan/` |
+| 豆包、扣子 / Doubao, Coze | 在“技能”页直接上传 skill zip / Upload the skill zip on the Skills page |
 | 其他 Agent Skills 宿主 / Other hosts | 使用该宿主当前文档规定的目录或上传入口 / Follow that host’s current documentation |
+
+聊天窗口（DeepSeek、Kimi、豆包、通义千问、文心等）不能加载 Skill：复制 [PROMPT.md](../skills/baocanmou-restaurant-slogan/PROMPT.md) 全文作为第一条消息。 / Chat apps cannot load Skills: paste [PROMPT.md](../skills/baocanmou-restaurant-slogan/PROMPT.md) as your first message.
 
 不同宿主版本可能有项目级和用户级入口差异；本包不宣称全部版本兼容。若已有共享技能源和符号链接，沿用原有结构，不再复制一份同名技能。
 

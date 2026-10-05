@@ -8,8 +8,9 @@ Keep this entire folder together. Install in your assistant’s Skill directory 
 - [English execution](references/workflow.en.md)
 - [中文方法卡](references/masters.md) / [English cards](references/masters.en.md)
 - [English example](examples/late-wok.en.md)
+- [聊天版提示词 / Chat-app prompt](PROMPT.md)：DeepSeek、Kimi、豆包、通义千问、文心等不能加载 Skill 时，复制全文使用。
 - [Complete bilingual installation, license and attribution](https://github.com/baocanmou/baocanmou-restaurant-slogan)
 
 Optional local check / 可选结构检查：`python3 scripts/check_delivery.py examples/late-wok.en.json`。Python 3.10+，仅标准库。The check does not judge literary quality, truth or sales impact.
 
-Publisher / 出品：BaoCanMou 包参谋。Concept / 发起：Yi Huiting 易慧庭。Version 1.1.1. MIT; see [LICENSE](LICENSE) and [NOTICE](NOTICE.md).
+Publisher / 出品：BaoCanMou 包参谋。Concept / 发起：Yi Huiting 易慧庭。Version 1.2.0. MIT; see [LICENSE](LICENSE) and [NOTICE](NOTICE.md).

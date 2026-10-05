@@ -4,7 +4,7 @@
 
 **中文** · [English](README.en.md)
 
-[![版本](https://img.shields.io/badge/version-1.1.1-111111)](CHANGELOG.md)
+[![版本](https://img.shields.io/badge/version-1.2.0-111111)](CHANGELOG.md)
 [![许可](https://img.shields.io/badge/license-MIT-111111)](LICENSE)
 [![检查](https://github.com/baocanmou/baocanmou-restaurant-slogan/actions/workflows/validate.yml/badge.svg)](https://github.com/baocanmou/baocanmou-restaurant-slogan/actions/workflows/validate.yml)
 [![Gitee 镜像](https://img.shields.io/badge/Gitee-镜像-c71d23)](https://gitee.com/baocanmou/baocanmou-restaurant-slogan)
@@ -65,14 +65,23 @@
 
 **方式一：下载 Release 手动安装（不需要 Python）**
 
-1. 到 [Releases](https://github.com/baocanmou/baocanmou-restaurant-slogan/releases/latest) 下载 `baocanmou-restaurant-slogan-skill-v1.1.1.zip`。
+1. 到 [Releases](https://github.com/baocanmou/baocanmou-restaurant-slogan/releases/latest) 下载 `baocanmou-restaurant-slogan-skill-v1.2.0.zip`。
 2. 解压，找到直接包含 `SKILL.md` 的那一层文件夹，整个复制到宿主的技能目录，保留 `references/`、`scripts/`、`examples/`：
 
-| 宿主 | 用户级目录 |
+| 宿主 | 用户级目录或安装入口 |
 |---|---|
-| Codex | `~/.agents/skills/baocanmou-restaurant-slogan/` |
+| Codex、Kimi Code CLI、文心快码 Comate | `~/.agents/skills/baocanmou-restaurant-slogan/` |
 | Claude Code | `~/.claude/skills/baocanmou-restaurant-slogan/` |
+| 通义千问 Qwen Code | `~/.qwen/skills/baocanmou-restaurant-slogan/` |
+| TRAE | `~/.trae/skills/baocanmou-restaurant-slogan/` |
+| 豆包、扣子 | 不用解压，直接在“技能”页上传这个 zip |
 | 其他 Agent Skills 宿主 | 按该宿主当前文档规定的目录或上传入口 |
+
+Windows 下把 `~` 换成 `%USERPROFILE%`。各工具的技能目录可能调整，以它们的最新文档为准。
+
+**方式三：在聊天窗口里直接用（不用安装）**
+
+DeepSeek、Kimi、豆包、通义千问、文心等聊天窗口不能加载 Skill。打开 [PROMPT.md](skills/baocanmou-restaurant-slogan/PROMPT.md)（[GitHub](https://github.com/baocanmou/baocanmou-restaurant-slogan/blob/main/skills/baocanmou-restaurant-slogan/PROMPT.md) · [Gitee](https://gitee.com/baocanmou/baocanmou-restaurant-slogan/blob/main/skills/baocanmou-restaurant-slogan/PROMPT.md)），复制全文作为第一条消息发出，或作为附件上传，再讲你的店。聊天版不运行检查脚本，由 AI 按规则人工复查。
 
 **方式二：克隆后用安装脚本**
 
@@ -150,7 +159,7 @@ Write in English for the … market. Ten candidates, a shared comparison, three 
 
 ## 版本与更新
 
-当前版本 **v1.1.1**（2026-09-11）。更新内容见 [CHANGELOG.md](CHANGELOG.md)，安装包见 [Releases](https://github.com/baocanmou/baocanmou-restaurant-slogan/releases)。
+当前版本 **v1.2.0**（2026-10-05）。更新内容见 [CHANGELOG.md](CHANGELOG.md)，安装包见 [Releases](https://github.com/baocanmou/baocanmou-restaurant-slogan/releases)。
 
 仓库自带检查（与 CI 一致）：
 
@@ -168,7 +177,7 @@ python3 -B -m unittest discover -s scripts -p "test_*.py" -v
 
 十位名家的理论各归原作者，方法卡是来源研究后的简要转述。已有谋术鸣定位可以作为输入承接使用；包参谋已有的谋术鸣理论不作为本包新增开源资产重新授权。晚点小炒、青间茶和 Late Wok 均为虚构示范。详见 [NOTICE.md](NOTICE.md) 与 [署名说明](docs/ATTRIBUTION.md)。
 
-推荐引用：**包参谋 BaoCanMou，《餐饮广告语：十法三选》，v1.1.1，2026。** 机器可读引用见 [CITATION.cff](CITATION.cff)。[贡献指南](CONTRIBUTING.md) · [提问与反馈](https://github.com/baocanmou/baocanmou-restaurant-slogan/issues) · [图片与宣传资料](docs/MEDIA-KIT.md)
+推荐引用：**包参谋 BaoCanMou，《餐饮广告语：十法三选》，v1.2.0，2026。** 机器可读引用见 [CITATION.cff](CITATION.cff)。[贡献指南](CONTRIBUTING.md) · [提问与反馈](https://github.com/baocanmou/baocanmou-restaurant-slogan/issues) · [图片与宣传资料](docs/MEDIA-KIT.md)
 
 ## 包参谋其他开源项目
 

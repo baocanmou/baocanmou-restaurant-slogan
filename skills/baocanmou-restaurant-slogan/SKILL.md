@@ -3,7 +3,7 @@ name: baocanmou-restaurant-slogan
 description: 专为餐饮品牌、菜品与用餐场景创作中英文广告语；restaurant slogans and taglines, 10 methods and 3 recommendations，按10位广告及定位名家的可核对方法各写1条，检查理论适用与餐饮兑现条件，比较后推荐3条。用于餐馆、快餐、火锅、茶饮、咖啡、烘焙等广告语，不扩展成通用文案或品牌全案。
 metadata:
   author: BaoCanMou
-  version: 1.1.1
+  version: 1.2.0
 ---
 
 # 包参谋·餐饮广告语：十法三选
@@ -54,7 +54,7 @@ metadata:
 4. 三条推荐：原句、理由、连用方式、兑现条件、简单验证办法。
 5. 方法来源链接。给用户看得懂的摘要，完整方法卡留在附件或Skill中。
 
-正式留档时，可按 [selection.md](references/selection.md) 保存 delivery.json，用 `python3 scripts/check_delivery.py delivery.json` 检查10条、10作者、3推荐和来源/状态对应。短对话或没有Python时人工复查，不把脚本当创作模型或语义裁判。
+正式留档时，可按 [selection.md](references/selection.md) 保存 delivery.json，用 `python3 scripts/check_delivery.py delivery.json` 检查（脚本在本技能目录的 `scripts/` 下，当前目录不是技能目录时用完整路径运行）10条、10作者、3推荐和来源/状态对应。短对话或没有Python时人工复查，不把脚本当创作模型或语义裁判。
 
 ## 5. 最后检查
 
